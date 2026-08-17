@@ -1,0 +1,9002 @@
+[
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 29.39,
+      "ram": 25.34,
+      "battery": 99.96
+    },
+    "network": {
+      "bandwidth": 90.79,
+      "latency": 10.06
+    },
+    "cloud": {
+      "queue_delay": 5.06
+    },
+    "workload": {
+      "cpu": 10.58,
+      "ram": 6.48,
+      "energy": 0.64
+    },
+    "cloud_workload": 1.04,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 42.77,
+      "ram": 24.01,
+      "battery": 99.92
+    },
+    "network": {
+      "bandwidth": 88.6,
+      "latency": 10.12
+    },
+    "cloud": {
+      "queue_delay": 5.08
+    },
+    "workload": {
+      "cpu": 17.47,
+      "ram": 3.1,
+      "energy": 0.93
+    },
+    "cloud_workload": 0.64,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 51.42,
+      "ram": 27.03,
+      "battery": 99.87
+    },
+    "network": {
+      "bandwidth": 88.46,
+      "latency": 10.18
+    },
+    "cloud": {
+      "queue_delay": 5.01
+    },
+    "workload": {
+      "cpu": 18.2,
+      "ram": 6.78,
+      "energy": 0.93
+    },
+    "cloud_workload": 1.07,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 45.55,
+      "ram": 27.32,
+      "battery": 99.83
+    },
+    "network": {
+      "bandwidth": 87.96,
+      "latency": 10.39
+    },
+    "cloud": {
+      "queue_delay": 5.12
+    },
+    "workload": {
+      "cpu": 11.44,
+      "ram": 5.56,
+      "energy": 1.0
+    },
+    "cloud_workload": 0.57,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 51.03,
+      "ram": 27.71,
+      "battery": 99.78
+    },
+    "network": {
+      "bandwidth": 89.8,
+      "latency": 10.65
+    },
+    "cloud": {
+      "queue_delay": 5.09
+    },
+    "workload": {
+      "cpu": 17.6,
+      "ram": 5.88,
+      "energy": 0.88
+    },
+    "cloud_workload": 0.77,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 49.41,
+      "ram": 29.56,
+      "battery": 99.73
+    },
+    "network": {
+      "bandwidth": 88.67,
+      "latency": 10.35
+    },
+    "cloud": {
+      "queue_delay": 5.02
+    },
+    "workload": {
+      "cpu": 14.44,
+      "ram": 7.44,
+      "energy": 1.02
+    },
+    "cloud_workload": 2.2,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 55.29,
+      "ram": 30.56,
+      "battery": 99.68
+    },
+    "network": {
+      "bandwidth": 89.68,
+      "latency": 10.18
+    },
+    "cloud": {
+      "queue_delay": 4.96
+    },
+    "workload": {
+      "cpu": 18.77,
+      "ram": 7.66,
+      "energy": 1.18
+    },
+    "cloud_workload": 0.65,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 50.61,
+      "ram": 29.52,
+      "battery": 99.63
+    },
+    "network": {
+      "bandwidth": 86.74,
+      "latency": 10.7
+    },
+    "cloud": {
+      "queue_delay": 4.81
+    },
+    "workload": {
+      "cpu": 14.97,
+      "ram": 5.64,
+      "energy": 1.2
+    },
+    "cloud_workload": 0.84,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 58.2,
+      "ram": 26.89,
+      "battery": 99.58
+    },
+    "network": {
+      "bandwidth": 88.37,
+      "latency": 10.49
+    },
+    "cloud": {
+      "queue_delay": 4.88
+    },
+    "workload": {
+      "cpu": 21.71,
+      "ram": 3.25,
+      "energy": 1.09
+    },
+    "cloud_workload": 2.05,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 55.85,
+      "ram": 25.69,
+      "battery": 99.53
+    },
+    "network": {
+      "bandwidth": 86.84,
+      "latency": 10.6
+    },
+    "cloud": {
+      "queue_delay": 4.93
+    },
+    "workload": {
+      "cpu": 18.28,
+      "ram": 3.57,
+      "energy": 0.99
+    },
+    "cloud_workload": 2.0,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 58.7,
+      "ram": 24.57,
+      "battery": 99.47
+    },
+    "network": {
+      "bandwidth": 86.79,
+      "latency": 10.69
+    },
+    "cloud": {
+      "queue_delay": 4.94
+    },
+    "workload": {
+      "cpu": 20.73,
+      "ram": 3.21,
+      "energy": 1.47
+    },
+    "cloud_workload": 1.27,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 60.08,
+      "ram": 24.71,
+      "battery": 99.41
+    },
+    "network": {
+      "bandwidth": 85.96,
+      "latency": 10.24
+    },
+    "cloud": {
+      "queue_delay": 4.85
+    },
+    "workload": {
+      "cpu": 19.97,
+      "ram": 3.77,
+      "energy": 1.31
+    },
+    "cloud_workload": 2.24,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 58.32,
+      "ram": 23.68,
+      "battery": 99.38
+    },
+    "network": {
+      "bandwidth": 80.86,
+      "latency": 10.85
+    },
+    "cloud": {
+      "queue_delay": 4.86
+    },
+    "workload": {
+      "cpu": 16.65,
+      "ram": 3.19,
+      "energy": 0.5
+    },
+    "cloud_workload": 2.12,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 66.63,
+      "ram": 26.81,
+      "battery": 99.32
+    },
+    "network": {
+      "bandwidth": 81.59,
+      "latency": 10.49
+    },
+    "cloud": {
+      "queue_delay": 4.88
+    },
+    "workload": {
+      "cpu": 24.84,
+      "ram": 7.52,
+      "energy": 1.39
+    },
+    "cloud_workload": 2.32,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 61.44,
+      "ram": 28.46,
+      "battery": 99.26
+    },
+    "network": {
+      "bandwidth": 82.48,
+      "latency": 10.79
+    },
+    "cloud": {
+      "queue_delay": 5.0
+    },
+    "workload": {
+      "cpu": 17.47,
+      "ram": 7.69,
+      "energy": 1.2
+    },
+    "cloud_workload": 1.2,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 51.25,
+      "ram": 26.51,
+      "battery": 99.2
+    },
+    "network": {
+      "bandwidth": 84.27,
+      "latency": 10.84
+    },
+    "cloud": {
+      "queue_delay": 5.01
+    },
+    "workload": {
+      "cpu": 11.39,
+      "ram": 4.03,
+      "energy": 1.44
+    },
+    "cloud_workload": 1.75,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 55.57,
+      "ram": 25.84,
+      "battery": 99.15
+    },
+    "network": {
+      "bandwidth": 84.85,
+      "latency": 10.64
+    },
+    "cloud": {
+      "queue_delay": 5.06
+    },
+    "workload": {
+      "cpu": 18.63,
+      "ram": 4.3,
+      "energy": 1.09
+    },
+    "cloud_workload": 1.33,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 49.89,
+      "ram": 28.26,
+      "battery": 99.1
+    },
+    "network": {
+      "bandwidth": 80.47,
+      "latency": 10.86
+    },
+    "cloud": {
+      "queue_delay": 5.11
+    },
+    "workload": {
+      "cpu": 12.67,
+      "ram": 7.14,
+      "energy": 1.21
+    },
+    "cloud_workload": 0.67,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 61.26,
+      "ram": 27.01,
+      "battery": 99.06
+    },
+    "network": {
+      "bandwidth": 80.98,
+      "latency": 10.97
+    },
+    "cloud": {
+      "queue_delay": 5.23
+    },
+    "workload": {
+      "cpu": 24.38,
+      "ram": 4.11,
+      "energy": 0.69
+    },
+    "cloud_workload": 2.27,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 57.27,
+      "ram": 25.11,
+      "battery": 99.02
+    },
+    "network": {
+      "bandwidth": 77.18,
+      "latency": 11.2
+    },
+    "cloud": {
+      "queue_delay": 5.2
+    },
+    "workload": {
+      "cpu": 16.87,
+      "ram": 3.31,
+      "energy": 0.53
+    },
+    "cloud_workload": 1.82,
+    "scenario_id": 1,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 37.52,
+      "ram": 24.79,
+      "battery": 99.95
+    },
+    "network": {
+      "bandwidth": 92.73,
+      "latency": 10.05
+    },
+    "cloud": {
+      "queue_delay": 11.83
+    },
+    "workload": {
+      "cpu": 16.13,
+      "ram": 5.71,
+      "energy": 1.36
+    },
+    "cloud_workload": 5.66,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 38.5,
+      "ram": 24.98,
+      "battery": 99.9
+    },
+    "network": {
+      "bandwidth": 93.38,
+      "latency": 9.9
+    },
+    "cloud": {
+      "queue_delay": 11.76
+    },
+    "workload": {
+      "cpu": 10.13,
+      "ram": 3.78,
+      "energy": 1.01
+    },
+    "cloud_workload": 3.69,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 45.34,
+      "ram": 25.8,
+      "battery": 99.85
+    },
+    "network": {
+      "bandwidth": 93.0,
+      "latency": 9.75
+    },
+    "cloud": {
+      "queue_delay": 11.85
+    },
+    "workload": {
+      "cpu": 15.68,
+      "ram": 5.03,
+      "energy": 1.19
+    },
+    "cloud_workload": 4.75,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 42.94,
+      "ram": 24.92,
+      "battery": 99.81
+    },
+    "network": {
+      "bandwidth": 93.73,
+      "latency": 9.49
+    },
+    "cloud": {
+      "queue_delay": 11.88
+    },
+    "workload": {
+      "cpu": 11.68,
+      "ram": 3.35,
+      "energy": 0.59
+    },
+    "cloud_workload": 3.96,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 51.26,
+      "ram": 28.15,
+      "battery": 99.78
+    },
+    "network": {
+      "bandwidth": 96.97,
+      "latency": 9.62
+    },
+    "cloud": {
+      "queue_delay": 12.01
+    },
+    "workload": {
+      "cpu": 19.38,
+      "ram": 7.85,
+      "energy": 0.54
+    },
+    "cloud_workload": 5.53,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 48.91,
+      "ram": 26.6,
+      "battery": 99.74
+    },
+    "network": {
+      "bandwidth": 96.78,
+      "latency": 9.68
+    },
+    "cloud": {
+      "queue_delay": 11.95
+    },
+    "workload": {
+      "cpu": 13.88,
+      "ram": 4.24,
+      "energy": 0.55
+    },
+    "cloud_workload": 5.9,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 50.84,
+      "ram": 24.75,
+      "battery": 99.69
+    },
+    "network": {
+      "bandwidth": 99.16,
+      "latency": 9.31
+    },
+    "cloud": {
+      "queue_delay": 11.9
+    },
+    "workload": {
+      "cpu": 16.55,
+      "ram": 3.19,
+      "energy": 1.21
+    },
+    "cloud_workload": 3.28,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 56.79,
+      "ram": 26.36,
+      "battery": 99.64
+    },
+    "network": {
+      "bandwidth": 96.21,
+      "latency": 9.42
+    },
+    "cloud": {
+      "queue_delay": 11.93
+    },
+    "workload": {
+      "cpu": 19.46,
+      "ram": 5.95,
+      "energy": 1.04
+    },
+    "cloud_workload": 4.4,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 62.11,
+      "ram": 27.17,
+      "battery": 99.59
+    },
+    "network": {
+      "bandwidth": 92.09,
+      "latency": 9.71
+    },
+    "cloud": {
+      "queue_delay": 12.0
+    },
+    "workload": {
+      "cpu": 21.91,
+      "ram": 6.42,
+      "energy": 0.85
+    },
+    "cloud_workload": 5.25,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 53.53,
+      "ram": 25.14,
+      "battery": 99.54
+    },
+    "network": {
+      "bandwidth": 92.86,
+      "latency": 9.49
+    },
+    "cloud": {
+      "queue_delay": 12.05
+    },
+    "workload": {
+      "cpu": 13.35,
+      "ram": 3.07,
+      "energy": 1.25
+    },
+    "cloud_workload": 4.52,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 63.82,
+      "ram": 25.75,
+      "battery": 99.5
+    },
+    "network": {
+      "bandwidth": 86.99,
+      "latency": 9.88
+    },
+    "cloud": {
+      "queue_delay": 12.01
+    },
+    "workload": {
+      "cpu": 24.92,
+      "ram": 4.78,
+      "energy": 0.7
+    },
+    "cloud_workload": 3.83,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 50.3,
+      "ram": 26.16,
+      "battery": 99.46
+    },
+    "network": {
+      "bandwidth": 88.9,
+      "latency": 10.07
+    },
+    "cloud": {
+      "queue_delay": 12.04
+    },
+    "workload": {
+      "cpu": 10.89,
+      "ram": 5.17,
+      "energy": 0.55
+    },
+    "cloud_workload": 4.01,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 46.64,
+      "ram": 27.17,
+      "battery": 99.4
+    },
+    "network": {
+      "bandwidth": 82.56,
+      "latency": 10.5
+    },
+    "cloud": {
+      "queue_delay": 12.04
+    },
+    "workload": {
+      "cpu": 12.69,
+      "ram": 6.21,
+      "energy": 1.34
+    },
+    "cloud_workload": 3.55,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 41.82,
+      "ram": 26.27,
+      "battery": 99.35
+    },
+    "network": {
+      "bandwidth": 83.92,
+      "latency": 10.66
+    },
+    "cloud": {
+      "queue_delay": 11.97
+    },
+    "workload": {
+      "cpu": 10.1,
+      "ram": 4.37,
+      "energy": 1.19
+    },
+    "cloud_workload": 3.34,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 55.9,
+      "ram": 28.09,
+      "battery": 99.31
+    },
+    "network": {
+      "bandwidth": 82.33,
+      "latency": 10.47
+    },
+    "cloud": {
+      "queue_delay": 11.96
+    },
+    "workload": {
+      "cpu": 22.61,
+      "ram": 7.15,
+      "energy": 0.78
+    },
+    "cloud_workload": 4.83,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 62.73,
+      "ram": 28.01,
+      "battery": 99.26
+    },
+    "network": {
+      "bandwidth": 86.45,
+      "latency": 10.5
+    },
+    "cloud": {
+      "queue_delay": 11.93
+    },
+    "workload": {
+      "cpu": 22.97,
+      "ram": 6.0,
+      "energy": 1.05
+    },
+    "cloud_workload": 3.85,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 55.27,
+      "ram": 27.34,
+      "battery": 99.21
+    },
+    "network": {
+      "bandwidth": 83.06,
+      "latency": 10.96
+    },
+    "cloud": {
+      "queue_delay": 11.95
+    },
+    "workload": {
+      "cpu": 14.5,
+      "ram": 5.02,
+      "energy": 1.05
+    },
+    "cloud_workload": 4.68,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 60.02,
+      "ram": 25.34,
+      "battery": 99.16
+    },
+    "network": {
+      "bandwidth": 80.76,
+      "latency": 11.26
+    },
+    "cloud": {
+      "queue_delay": 11.83
+    },
+    "workload": {
+      "cpu": 19.86,
+      "ram": 3.37,
+      "energy": 0.94
+    },
+    "cloud_workload": 4.75,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 49.33,
+      "ram": 28.23,
+      "battery": 99.11
+    },
+    "network": {
+      "bandwidth": 78.4,
+      "latency": 11.39
+    },
+    "cloud": {
+      "queue_delay": 12.02
+    },
+    "workload": {
+      "cpu": 11.26,
+      "ram": 7.51,
+      "energy": 1.27
+    },
+    "cloud_workload": 4.63,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 55.76,
+      "ram": 28.09,
+      "battery": 99.07
+    },
+    "network": {
+      "bandwidth": 79.17,
+      "latency": 11.96
+    },
+    "cloud": {
+      "queue_delay": 12.13
+    },
+    "workload": {
+      "cpu": 20.52,
+      "ram": 5.8,
+      "energy": 0.57
+    },
+    "cloud_workload": 3.52,
+    "scenario_id": 2,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 34.62,
+      "ram": 24.49,
+      "battery": 99.97
+    },
+    "network": {
+      "bandwidth": 89.03,
+      "latency": 9.64
+    },
+    "cloud": {
+      "queue_delay": 25.36
+    },
+    "workload": {
+      "cpu": 14.08,
+      "ram": 5.44,
+      "energy": 0.58
+    },
+    "cloud_workload": 7.41,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 39.21,
+      "ram": 25.4,
+      "battery": 99.91
+    },
+    "network": {
+      "bandwidth": 87.2,
+      "latency": 9.93
+    },
+    "cloud": {
+      "queue_delay": 26.37
+    },
+    "workload": {
+      "cpu": 11.77,
+      "ram": 4.56,
+      "energy": 1.24
+    },
+    "cloud_workload": 8.05,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 41.84,
+      "ram": 28.0,
+      "battery": 99.86
+    },
+    "network": {
+      "bandwidth": 91.18,
+      "latency": 9.39
+    },
+    "cloud": {
+      "queue_delay": 27.54
+    },
+    "workload": {
+      "cpu": 12.03,
+      "ram": 6.98,
+      "energy": 1.24
+    },
+    "cloud_workload": 6.16,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 47.21,
+      "ram": 28.65,
+      "battery": 99.8
+    },
+    "network": {
+      "bandwidth": 88.66,
+      "latency": 9.73
+    },
+    "cloud": {
+      "queue_delay": 28.86
+    },
+    "workload": {
+      "cpu": 16.12,
+      "ram": 6.5,
+      "energy": 1.42
+    },
+    "cloud_workload": 7.06,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 57.86,
+      "ram": 30.21,
+      "battery": 99.77
+    },
+    "network": {
+      "bandwidth": 89.68,
+      "latency": 9.63
+    },
+    "cloud": {
+      "queue_delay": 30.72
+    },
+    "workload": {
+      "cpu": 21.63,
+      "ram": 7.81,
+      "energy": 0.59
+    },
+    "cloud_workload": 7.93,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 63.89,
+      "ram": 30.24,
+      "battery": 99.71
+    },
+    "network": {
+      "bandwidth": 94.61,
+      "latency": 9.58
+    },
+    "cloud": {
+      "queue_delay": 32.55
+    },
+    "workload": {
+      "cpu": 23.14,
+      "ram": 6.73,
+      "energy": 1.16
+    },
+    "cloud_workload": 8.27,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 66.17,
+      "ram": 29.77,
+      "battery": 99.66
+    },
+    "network": {
+      "bandwidth": 93.6,
+      "latency": 9.79
+    },
+    "cloud": {
+      "queue_delay": 34.84
+    },
+    "workload": {
+      "cpu": 22.15,
+      "ram": 6.22,
+      "energy": 1.09
+    },
+    "cloud_workload": 8.09,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 62.2,
+      "ram": 26.62,
+      "battery": 99.61
+    },
+    "network": {
+      "bandwidth": 92.35,
+      "latency": 10.28
+    },
+    "cloud": {
+      "queue_delay": 37.19
+    },
+    "workload": {
+      "cpu": 19.4,
+      "ram": 3.08,
+      "energy": 1.0
+    },
+    "cloud_workload": 7.5,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 56.38,
+      "ram": 28.39,
+      "battery": 99.57
+    },
+    "network": {
+      "bandwidth": 91.57,
+      "latency": 10.66
+    },
+    "cloud": {
+      "queue_delay": 39.8
+    },
+    "workload": {
+      "cpu": 16.22,
+      "ram": 7.18,
+      "energy": 0.64
+    },
+    "cloud_workload": 8.4,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 58.61,
+      "ram": 25.9,
+      "battery": 99.51
+    },
+    "network": {
+      "bandwidth": 95.78,
+      "latency": 10.04
+    },
+    "cloud": {
+      "queue_delay": 42.6
+    },
+    "workload": {
+      "cpu": 19.19,
+      "ram": 3.15,
+      "energy": 1.36
+    },
+    "cloud_workload": 9.36,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 52.55,
+      "ram": 25.73,
+      "battery": 99.47
+    },
+    "network": {
+      "bandwidth": 95.94,
+      "latency": 9.64
+    },
+    "cloud": {
+      "queue_delay": 45.3
+    },
+    "workload": {
+      "cpu": 14.33,
+      "ram": 4.5,
+      "energy": 0.68
+    },
+    "cloud_workload": 6.14,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 56.22,
+      "ram": 26.77,
+      "battery": 99.43
+    },
+    "network": {
+      "bandwidth": 96.11,
+      "latency": 9.44
+    },
+    "cloud": {
+      "queue_delay": 48.34
+    },
+    "workload": {
+      "cpu": 19.36,
+      "ram": 5.88,
+      "energy": 0.86
+    },
+    "cloud_workload": 8.16,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 51.6,
+      "ram": 28.95,
+      "battery": 99.38
+    },
+    "network": {
+      "bandwidth": 92.91,
+      "latency": 9.59
+    },
+    "cloud": {
+      "queue_delay": 51.63
+    },
+    "workload": {
+      "cpu": 14.94,
+      "ram": 7.86,
+      "energy": 1.14
+    },
+    "cloud_workload": 8.6,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 44.85,
+      "ram": 30.46,
+      "battery": 99.32
+    },
+    "network": {
+      "bandwidth": 94.36,
+      "latency": 9.08
+    },
+    "cloud": {
+      "queue_delay": 54.48
+    },
+    "workload": {
+      "cpu": 10.34,
+      "ram": 7.85,
+      "energy": 1.34
+    },
+    "cloud_workload": 6.87,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 56.41,
+      "ram": 30.89,
+      "battery": 99.28
+    },
+    "network": {
+      "bandwidth": 94.33,
+      "latency": 9.12
+    },
+    "cloud": {
+      "queue_delay": 57.63
+    },
+    "workload": {
+      "cpu": 21.78,
+      "ram": 7.47,
+      "energy": 0.56
+    },
+    "cloud_workload": 9.09,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 59.06,
+      "ram": 30.52,
+      "battery": 99.24
+    },
+    "network": {
+      "bandwidth": 95.65,
+      "latency": 9.05
+    },
+    "cloud": {
+      "queue_delay": 60.98
+    },
+    "workload": {
+      "cpu": 20.44,
+      "ram": 6.77,
+      "energy": 0.95
+    },
+    "cloud_workload": 9.09,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 61.95,
+      "ram": 28.94,
+      "battery": 99.19
+    },
+    "network": {
+      "bandwidth": 96.38,
+      "latency": 8.77
+    },
+    "cloud": {
+      "queue_delay": 64.48
+    },
+    "workload": {
+      "cpu": 22.5,
+      "ram": 4.91,
+      "energy": 0.9
+    },
+    "cloud_workload": 8.22,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 59.73,
+      "ram": 29.65,
+      "battery": 99.14
+    },
+    "network": {
+      "bandwidth": 100.64,
+      "latency": 8.69
+    },
+    "cloud": {
+      "queue_delay": 67.89
+    },
+    "workload": {
+      "cpu": 18.85,
+      "ram": 7.18,
+      "energy": 1.19
+    },
+    "cloud_workload": 7.25,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 63.68,
+      "ram": 27.71,
+      "battery": 99.08
+    },
+    "network": {
+      "bandwidth": 101.96,
+      "latency": 8.51
+    },
+    "cloud": {
+      "queue_delay": 71.23
+    },
+    "workload": {
+      "cpu": 23.29,
+      "ram": 4.08,
+      "energy": 1.45
+    },
+    "cloud_workload": 7.04,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 59.44,
+      "ram": 29.4,
+      "battery": 99.02
+    },
+    "network": {
+      "bandwidth": 99.53,
+      "latency": 8.61
+    },
+    "cloud": {
+      "queue_delay": 74.5
+    },
+    "workload": {
+      "cpu": 18.86,
+      "ram": 7.34,
+      "energy": 1.14
+    },
+    "cloud_workload": 8.51,
+    "scenario_id": 3,
+    "device_type": "smartphone",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 46.33,
+      "ram": 23.91,
+      "battery": 99.95
+    },
+    "network": {
+      "bandwidth": 48.86,
+      "latency": 23.06
+    },
+    "cloud": {
+      "queue_delay": 4.98
+    },
+    "workload": {
+      "cpu": 23.32,
+      "ram": 5.0,
+      "energy": 1.09
+    },
+    "cloud_workload": 1.6,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 59.0,
+      "ram": 23.41,
+      "battery": 99.91
+    },
+    "network": {
+      "bandwidth": 48.91,
+      "latency": 22.7
+    },
+    "cloud": {
+      "queue_delay": 4.93
+    },
+    "workload": {
+      "cpu": 24.21,
+      "ram": 3.16,
+      "energy": 0.57
+    },
+    "cloud_workload": 2.38,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 61.4,
+      "ram": 23.64,
+      "battery": 99.85
+    },
+    "network": {
+      "bandwidth": 48.27,
+      "latency": 23.1
+    },
+    "cloud": {
+      "queue_delay": 5.09
+    },
+    "workload": {
+      "cpu": 22.65,
+      "ram": 3.68,
+      "energy": 1.42
+    },
+    "cloud_workload": 2.02,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 66.55,
+      "ram": 25.17,
+      "battery": 99.81
+    },
+    "network": {
+      "bandwidth": 48.38,
+      "latency": 23.21
+    },
+    "cloud": {
+      "queue_delay": 5.04
+    },
+    "workload": {
+      "cpu": 24.62,
+      "ram": 5.39,
+      "energy": 0.66
+    },
+    "cloud_workload": 0.72,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 64.99,
+      "ram": 26.67,
+      "battery": 99.77
+    },
+    "network": {
+      "bandwidth": 48.09,
+      "latency": 23.15
+    },
+    "cloud": {
+      "queue_delay": 5.05
+    },
+    "workload": {
+      "cpu": 21.23,
+      "ram": 5.72,
+      "energy": 0.61
+    },
+    "cloud_workload": 0.94,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 51.88,
+      "ram": 26.17,
+      "battery": 99.73
+    },
+    "network": {
+      "bandwidth": 52.86,
+      "latency": 22.13
+    },
+    "cloud": {
+      "queue_delay": 5.01
+    },
+    "workload": {
+      "cpu": 11.6,
+      "ram": 4.77,
+      "energy": 0.57
+    },
+    "cloud_workload": 0.93,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 48.41,
+      "ram": 26.07,
+      "battery": 99.68
+    },
+    "network": {
+      "bandwidth": 52.27,
+      "latency": 22.35
+    },
+    "cloud": {
+      "queue_delay": 5.02
+    },
+    "workload": {
+      "cpu": 12.76,
+      "ram": 4.51,
+      "energy": 1.27
+    },
+    "cloud_workload": 0.63,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 57.11,
+      "ram": 27.38,
+      "battery": 99.64
+    },
+    "network": {
+      "bandwidth": 49.33,
+      "latency": 22.23
+    },
+    "cloud": {
+      "queue_delay": 5.05
+    },
+    "workload": {
+      "cpu": 20.68,
+      "ram": 6.38,
+      "energy": 0.56
+    },
+    "cloud_workload": 1.9,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 56.29,
+      "ram": 26.73,
+      "battery": 99.59
+    },
+    "network": {
+      "bandwidth": 48.21,
+      "latency": 22.22
+    },
+    "cloud": {
+      "queue_delay": 5.07
+    },
+    "workload": {
+      "cpu": 18.4,
+      "ram": 4.83,
+      "energy": 1.25
+    },
+    "cloud_workload": 1.18,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 48.82,
+      "ram": 25.44,
+      "battery": 99.53
+    },
+    "network": {
+      "bandwidth": 47.52,
+      "latency": 22.65
+    },
+    "cloud": {
+      "queue_delay": 5.0
+    },
+    "workload": {
+      "cpu": 10.99,
+      "ram": 3.5,
+      "energy": 1.36
+    },
+    "cloud_workload": 1.8,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 54.58,
+      "ram": 24.81,
+      "battery": 99.49
+    },
+    "network": {
+      "bandwidth": 47.04,
+      "latency": 22.65
+    },
+    "cloud": {
+      "queue_delay": 5.07
+    },
+    "workload": {
+      "cpu": 20.74,
+      "ram": 3.93,
+      "energy": 0.8
+    },
+    "cloud_workload": 1.64,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 46.93,
+      "ram": 27.32,
+      "battery": 99.44
+    },
+    "network": {
+      "bandwidth": 48.91,
+      "latency": 22.4
+    },
+    "cloud": {
+      "queue_delay": 5.14
+    },
+    "workload": {
+      "cpu": 10.53,
+      "ram": 6.87,
+      "energy": 0.87
+    },
+    "cloud_workload": 0.85,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 54.6,
+      "ram": 25.45,
+      "battery": 99.4
+    },
+    "network": {
+      "bandwidth": 46.92,
+      "latency": 22.81
+    },
+    "cloud": {
+      "queue_delay": 5.09
+    },
+    "workload": {
+      "cpu": 19.76,
+      "ram": 3.68,
+      "energy": 0.88
+    },
+    "cloud_workload": 2.13,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 57.74,
+      "ram": 24.88,
+      "battery": 99.35
+    },
+    "network": {
+      "bandwidth": 45.16,
+      "latency": 23.67
+    },
+    "cloud": {
+      "queue_delay": 5.14
+    },
+    "workload": {
+      "cpu": 20.57,
+      "ram": 3.74,
+      "energy": 0.88
+    },
+    "cloud_workload": 1.08,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 47.62,
+      "ram": 24.38,
+      "battery": 99.29
+    },
+    "network": {
+      "bandwidth": 41.31,
+      "latency": 24.75
+    },
+    "cloud": {
+      "queue_delay": 5.14
+    },
+    "workload": {
+      "cpu": 10.62,
+      "ram": 3.26,
+      "energy": 1.48
+    },
+    "cloud_workload": 1.49,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 57.78,
+      "ram": 27.43,
+      "battery": 99.26
+    },
+    "network": {
+      "bandwidth": 41.98,
+      "latency": 25.01
+    },
+    "cloud": {
+      "queue_delay": 5.13
+    },
+    "workload": {
+      "cpu": 23.46,
+      "ram": 7.56,
+      "energy": 0.56
+    },
+    "cloud_workload": 1.16,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 53.62,
+      "ram": 27.54,
+      "battery": 99.22
+    },
+    "network": {
+      "bandwidth": 43.69,
+      "latency": 24.93
+    },
+    "cloud": {
+      "queue_delay": 5.12
+    },
+    "workload": {
+      "cpu": 14.6,
+      "ram": 5.78,
+      "energy": 0.74
+    },
+    "cloud_workload": 1.14,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 56.63,
+      "ram": 27.14,
+      "battery": 99.18
+    },
+    "network": {
+      "bandwidth": 43.35,
+      "latency": 24.78
+    },
+    "cloud": {
+      "queue_delay": 4.96
+    },
+    "workload": {
+      "cpu": 19.92,
+      "ram": 4.36,
+      "energy": 0.56
+    },
+    "cloud_workload": 1.34,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 55.43,
+      "ram": 25.77,
+      "battery": 99.12
+    },
+    "network": {
+      "bandwidth": 40.1,
+      "latency": 25.97
+    },
+    "cloud": {
+      "queue_delay": 4.94
+    },
+    "workload": {
+      "cpu": 17.35,
+      "ram": 3.31,
+      "energy": 1.26
+    },
+    "cloud_workload": 0.5,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 61.81,
+      "ram": 24.49,
+      "battery": 99.07
+    },
+    "network": {
+      "bandwidth": 38.79,
+      "latency": 26.61
+    },
+    "cloud": {
+      "queue_delay": 4.88
+    },
+    "workload": {
+      "cpu": 22.72,
+      "ram": 3.37,
+      "energy": 1.15
+    },
+    "cloud_workload": 1.36,
+    "scenario_id": 4,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 35.71,
+      "ram": 24.42,
+      "battery": 99.96
+    },
+    "network": {
+      "bandwidth": 46.91,
+      "latency": 23.53
+    },
+    "cloud": {
+      "queue_delay": 12.13
+    },
+    "workload": {
+      "cpu": 15.28,
+      "ram": 5.15,
+      "energy": 0.95
+    },
+    "cloud_workload": 3.2,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 45.07,
+      "ram": 23.8,
+      "battery": 99.92
+    },
+    "network": {
+      "bandwidth": 45.05,
+      "latency": 24.04
+    },
+    "cloud": {
+      "queue_delay": 12.21
+    },
+    "workload": {
+      "cpu": 16.28,
+      "ram": 3.12,
+      "energy": 0.6
+    },
+    "cloud_workload": 4.53,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 51.62,
+      "ram": 25.44,
+      "battery": 99.86
+    },
+    "network": {
+      "bandwidth": 44.52,
+      "latency": 24.33
+    },
+    "cloud": {
+      "queue_delay": 12.26
+    },
+    "workload": {
+      "cpu": 17.22,
+      "ram": 5.73,
+      "energy": 1.42
+    },
+    "cloud_workload": 3.13,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 52.04,
+      "ram": 27.93,
+      "battery": 99.82
+    },
+    "network": {
+      "bandwidth": 43.35,
+      "latency": 25.25
+    },
+    "cloud": {
+      "queue_delay": 12.34
+    },
+    "workload": {
+      "cpu": 15.39,
+      "ram": 7.79,
+      "energy": 0.53
+    },
+    "cloud_workload": 4.89,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 55.93,
+      "ram": 28.43,
+      "battery": 99.77
+    },
+    "network": {
+      "bandwidth": 42.63,
+      "latency": 25.77
+    },
+    "cloud": {
+      "queue_delay": 12.18
+    },
+    "workload": {
+      "cpu": 19.01,
+      "ram": 5.79,
+      "energy": 1.26
+    },
+    "cloud_workload": 5.57,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 52.46,
+      "ram": 27.25,
+      "battery": 99.73
+    },
+    "network": {
+      "bandwidth": 44.65,
+      "latency": 25.61
+    },
+    "cloud": {
+      "queue_delay": 12.1
+    },
+    "workload": {
+      "cpu": 15.01,
+      "ram": 4.81,
+      "energy": 0.88
+    },
+    "cloud_workload": 3.75,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 56.96,
+      "ram": 28.74,
+      "battery": 99.67
+    },
+    "network": {
+      "bandwidth": 47.01,
+      "latency": 25.19
+    },
+    "cloud": {
+      "queue_delay": 12.09
+    },
+    "workload": {
+      "cpu": 19.73,
+      "ram": 7.41,
+      "energy": 1.43
+    },
+    "cloud_workload": 4.27,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 56.52,
+      "ram": 28.9,
+      "battery": 99.62
+    },
+    "network": {
+      "bandwidth": 45.85,
+      "latency": 24.97
+    },
+    "cloud": {
+      "queue_delay": 12.0
+    },
+    "workload": {
+      "cpu": 19.07,
+      "ram": 6.37,
+      "energy": 0.79
+    },
+    "cloud_workload": 4.2,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 57.35,
+      "ram": 27.34,
+      "battery": 99.57
+    },
+    "network": {
+      "bandwidth": 46.5,
+      "latency": 25.01
+    },
+    "cloud": {
+      "queue_delay": 11.91
+    },
+    "workload": {
+      "cpu": 18.33,
+      "ram": 4.31,
+      "energy": 1.03
+    },
+    "cloud_workload": 4.86,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 59.77,
+      "ram": 28.49,
+      "battery": 99.52
+    },
+    "network": {
+      "bandwidth": 47.24,
+      "latency": 24.7
+    },
+    "cloud": {
+      "queue_delay": 11.73
+    },
+    "workload": {
+      "cpu": 20.95,
+      "ram": 7.0,
+      "energy": 1.11
+    },
+    "cloud_workload": 3.62,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 56.11,
+      "ram": 29.8,
+      "battery": 99.46
+    },
+    "network": {
+      "bandwidth": 47.89,
+      "latency": 24.23
+    },
+    "cloud": {
+      "queue_delay": 11.71
+    },
+    "workload": {
+      "cpu": 17.28,
+      "ram": 7.81,
+      "energy": 1.49
+    },
+    "cloud_workload": 3.2,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 61.25,
+      "ram": 27.17,
+      "battery": 99.42
+    },
+    "network": {
+      "bandwidth": 46.0,
+      "latency": 24.11
+    },
+    "cloud": {
+      "queue_delay": 11.72
+    },
+    "workload": {
+      "cpu": 22.06,
+      "ram": 3.41,
+      "energy": 0.77
+    },
+    "cloud_workload": 4.46,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 63.47,
+      "ram": 27.08,
+      "battery": 99.36
+    },
+    "network": {
+      "bandwidth": 47.42,
+      "latency": 24.07
+    },
+    "cloud": {
+      "queue_delay": 11.66
+    },
+    "workload": {
+      "cpu": 21.74,
+      "ram": 5.18,
+      "energy": 1.42
+    },
+    "cloud_workload": 3.77,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 61.2,
+      "ram": 27.2,
+      "battery": 99.3
+    },
+    "network": {
+      "bandwidth": 45.81,
+      "latency": 23.76
+    },
+    "cloud": {
+      "queue_delay": 11.63
+    },
+    "workload": {
+      "cpu": 20.11,
+      "ram": 5.36,
+      "energy": 1.21
+    },
+    "cloud_workload": 4.5,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 51.1,
+      "ram": 26.25,
+      "battery": 99.26
+    },
+    "network": {
+      "bandwidth": 41.95,
+      "latency": 24.28
+    },
+    "cloud": {
+      "queue_delay": 11.58
+    },
+    "workload": {
+      "cpu": 10.33,
+      "ram": 4.22,
+      "energy": 0.85
+    },
+    "cloud_workload": 5.9,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 60.5,
+      "ram": 25.34,
+      "battery": 99.22
+    },
+    "network": {
+      "bandwidth": 41.53,
+      "latency": 25.18
+    },
+    "cloud": {
+      "queue_delay": 11.63
+    },
+    "workload": {
+      "cpu": 23.81,
+      "ram": 3.64,
+      "energy": 0.64
+    },
+    "cloud_workload": 3.45,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 55.71,
+      "ram": 25.41,
+      "battery": 99.18
+    },
+    "network": {
+      "bandwidth": 44.07,
+      "latency": 25.33
+    },
+    "cloud": {
+      "queue_delay": 11.72
+    },
+    "workload": {
+      "cpu": 15.89,
+      "ram": 4.33,
+      "energy": 0.5
+    },
+    "cloud_workload": 3.25,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 49.74,
+      "ram": 26.47,
+      "battery": 99.14
+    },
+    "network": {
+      "bandwidth": 45.95,
+      "latency": 25.23
+    },
+    "cloud": {
+      "queue_delay": 11.74
+    },
+    "workload": {
+      "cpu": 12.72,
+      "ram": 5.56,
+      "energy": 0.99
+    },
+    "cloud_workload": 5.08,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 54.3,
+      "ram": 27.39,
+      "battery": 99.1
+    },
+    "network": {
+      "bandwidth": 42.63,
+      "latency": 25.4
+    },
+    "cloud": {
+      "queue_delay": 11.78
+    },
+    "workload": {
+      "cpu": 17.92,
+      "ram": 5.82,
+      "energy": 0.51
+    },
+    "cloud_workload": 4.99,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 61.28,
+      "ram": 29.07,
+      "battery": 99.06
+    },
+    "network": {
+      "bandwidth": 44.72,
+      "latency": 25.21
+    },
+    "cloud": {
+      "queue_delay": 11.86
+    },
+    "workload": {
+      "cpu": 23.01,
+      "ram": 7.39,
+      "energy": 0.73
+    },
+    "cloud_workload": 3.58,
+    "scenario_id": 5,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 39.19,
+      "ram": 23.52,
+      "battery": 99.95
+    },
+    "network": {
+      "bandwidth": 48.85,
+      "latency": 23.67
+    },
+    "cloud": {
+      "queue_delay": 25.51
+    },
+    "workload": {
+      "cpu": 18.22,
+      "ram": 3.66,
+      "energy": 1.21
+    },
+    "cloud_workload": 7.99,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 43.31,
+      "ram": 27.46,
+      "battery": 99.89
+    },
+    "network": {
+      "bandwidth": 51.36,
+      "latency": 22.98
+    },
+    "cloud": {
+      "queue_delay": 26.4
+    },
+    "workload": {
+      "cpu": 12.48,
+      "ram": 7.83,
+      "energy": 1.37
+    },
+    "cloud_workload": 7.89,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 45.22,
+      "ram": 27.65,
+      "battery": 99.84
+    },
+    "network": {
+      "bandwidth": 51.44,
+      "latency": 23.0
+    },
+    "cloud": {
+      "queue_delay": 27.54
+    },
+    "workload": {
+      "cpu": 13.27,
+      "ram": 5.56,
+      "energy": 1.35
+    },
+    "cloud_workload": 6.34,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 50.89,
+      "ram": 26.14,
+      "battery": 99.8
+    },
+    "network": {
+      "bandwidth": 52.46,
+      "latency": 22.69
+    },
+    "cloud": {
+      "queue_delay": 28.81
+    },
+    "workload": {
+      "cpu": 17.48,
+      "ram": 3.82,
+      "energy": 0.63
+    },
+    "cloud_workload": 6.61,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 50.06,
+      "ram": 26.43,
+      "battery": 99.74
+    },
+    "network": {
+      "bandwidth": 55.16,
+      "latency": 21.59
+    },
+    "cloud": {
+      "queue_delay": 30.87
+    },
+    "workload": {
+      "cpu": 15.09,
+      "ram": 4.69,
+      "energy": 1.34
+    },
+    "cloud_workload": 9.92,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 48.76,
+      "ram": 25.54,
+      "battery": 99.69
+    },
+    "network": {
+      "bandwidth": 53.17,
+      "latency": 21.55
+    },
+    "cloud": {
+      "queue_delay": 33.23
+    },
+    "workload": {
+      "cpu": 14.24,
+      "ram": 3.69,
+      "energy": 1.15
+    },
+    "cloud_workload": 7.32,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 57.76,
+      "ram": 27.7,
+      "battery": 99.65
+    },
+    "network": {
+      "bandwidth": 50.97,
+      "latency": 21.34
+    },
+    "cloud": {
+      "queue_delay": 35.79
+    },
+    "workload": {
+      "cpu": 22.23,
+      "ram": 6.91,
+      "energy": 0.78
+    },
+    "cloud_workload": 8.43,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 50.26,
+      "ram": 25.88,
+      "battery": 99.61
+    },
+    "network": {
+      "bandwidth": 50.24,
+      "latency": 21.56
+    },
+    "cloud": {
+      "queue_delay": 38.16
+    },
+    "workload": {
+      "cpu": 11.75,
+      "ram": 3.58,
+      "energy": 0.65
+    },
+    "cloud_workload": 8.77,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 50.07,
+      "ram": 26.05,
+      "battery": 99.56
+    },
+    "network": {
+      "bandwidth": 51.56,
+      "latency": 21.28
+    },
+    "cloud": {
+      "queue_delay": 40.93
+    },
+    "workload": {
+      "cpu": 14.79,
+      "ram": 5.15,
+      "energy": 1.27
+    },
+    "cloud_workload": 9.18,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 54.38,
+      "ram": 27.25,
+      "battery": 99.51
+    },
+    "network": {
+      "bandwidth": 52.57,
+      "latency": 21.21
+    },
+    "cloud": {
+      "queue_delay": 43.76
+    },
+    "workload": {
+      "cpu": 18.73,
+      "ram": 6.42,
+      "energy": 0.91
+    },
+    "cloud_workload": 7.06,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 59.41,
+      "ram": 25.64,
+      "battery": 99.46
+    },
+    "network": {
+      "bandwidth": 51.0,
+      "latency": 20.8
+    },
+    "cloud": {
+      "queue_delay": 46.91
+    },
+    "workload": {
+      "cpu": 21.49,
+      "ram": 3.96,
+      "energy": 1.06
+    },
+    "cloud_workload": 8.8,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 50.74,
+      "ram": 25.2,
+      "battery": 99.4
+    },
+    "network": {
+      "bandwidth": 54.04,
+      "latency": 20.32
+    },
+    "cloud": {
+      "queue_delay": 50.1
+    },
+    "workload": {
+      "cpu": 12.33,
+      "ram": 4.39,
+      "energy": 1.33
+    },
+    "cloud_workload": 8.77,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 51.22,
+      "ram": 26.5,
+      "battery": 99.34
+    },
+    "network": {
+      "bandwidth": 51.88,
+      "latency": 20.35
+    },
+    "cloud": {
+      "queue_delay": 53.2
+    },
+    "workload": {
+      "cpu": 16.52,
+      "ram": 5.64,
+      "energy": 1.48
+    },
+    "cloud_workload": 7.08,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 59.22,
+      "ram": 27.1,
+      "battery": 99.31
+    },
+    "network": {
+      "bandwidth": 47.89,
+      "latency": 21.31
+    },
+    "cloud": {
+      "queue_delay": 56.48
+    },
+    "workload": {
+      "cpu": 23.55,
+      "ram": 5.65,
+      "energy": 0.54
+    },
+    "cloud_workload": 8.5,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 49.24,
+      "ram": 28.08,
+      "battery": 99.26
+    },
+    "network": {
+      "bandwidth": 51.66,
+      "latency": 21.52
+    },
+    "cloud": {
+      "queue_delay": 59.77
+    },
+    "workload": {
+      "cpu": 10.04,
+      "ram": 6.21,
+      "energy": 0.87
+    },
+    "cloud_workload": 9.28,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 57.98,
+      "ram": 25.92,
+      "battery": 99.22
+    },
+    "network": {
+      "bandwidth": 52.37,
+      "latency": 21.18
+    },
+    "cloud": {
+      "queue_delay": 63.07
+    },
+    "workload": {
+      "cpu": 22.61,
+      "ram": 3.48,
+      "energy": 0.95
+    },
+    "cloud_workload": 7.98,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 52.31,
+      "ram": 27.72,
+      "battery": 99.16
+    },
+    "network": {
+      "bandwidth": 51.4,
+      "latency": 21.07
+    },
+    "cloud": {
+      "queue_delay": 66.87
+    },
+    "workload": {
+      "cpu": 13.25,
+      "ram": 6.89,
+      "energy": 1.36
+    },
+    "cloud_workload": 9.26,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 46.03,
+      "ram": 29.56,
+      "battery": 99.11
+    },
+    "network": {
+      "bandwidth": 51.63,
+      "latency": 21.15
+    },
+    "cloud": {
+      "queue_delay": 70.7
+    },
+    "workload": {
+      "cpu": 10.48,
+      "ram": 7.92,
+      "energy": 0.93
+    },
+    "cloud_workload": 8.07,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 48.24,
+      "ram": 30.62,
+      "battery": 99.06
+    },
+    "network": {
+      "bandwidth": 53.87,
+      "latency": 20.57
+    },
+    "cloud": {
+      "queue_delay": 74.33
+    },
+    "workload": {
+      "cpu": 14.71,
+      "ram": 7.87,
+      "energy": 1.17
+    },
+    "cloud_workload": 7.47,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 56.85,
+      "ram": 30.15,
+      "battery": 99.02
+    },
+    "network": {
+      "bandwidth": 51.75,
+      "latency": 20.51
+    },
+    "cloud": {
+      "queue_delay": 78.0
+    },
+    "workload": {
+      "cpu": 21.53,
+      "ram": 6.26,
+      "energy": 0.57
+    },
+    "cloud_workload": 8.35,
+    "scenario_id": 6,
+    "device_type": "smartphone",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 31.07,
+      "ram": 23.81,
+      "battery": 99.97
+    },
+    "network": {
+      "bandwidth": 12.4,
+      "latency": 57.39
+    },
+    "cloud": {
+      "queue_delay": 5.07
+    },
+    "workload": {
+      "cpu": 11.0,
+      "ram": 5.07,
+      "energy": 0.61
+    },
+    "cloud_workload": 0.99,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 48.77,
+      "ram": 23.85,
+      "battery": 99.91
+    },
+    "network": {
+      "bandwidth": 11.62,
+      "latency": 57.1
+    },
+    "cloud": {
+      "queue_delay": 5.17
+    },
+    "workload": {
+      "cpu": 21.04,
+      "ram": 3.77,
+      "energy": 1.23
+    },
+    "cloud_workload": 0.96,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 58.14,
+      "ram": 25.99,
+      "battery": 99.86
+    },
+    "network": {
+      "bandwidth": 12.11,
+      "latency": 57.78
+    },
+    "cloud": {
+      "queue_delay": 5.25
+    },
+    "workload": {
+      "cpu": 22.84,
+      "ram": 6.01,
+      "energy": 1.07
+    },
+    "cloud_workload": 2.35,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 55.05,
+      "ram": 27.27,
+      "battery": 99.82
+    },
+    "network": {
+      "bandwidth": 12.56,
+      "latency": 57.59
+    },
+    "cloud": {
+      "queue_delay": 5.16
+    },
+    "workload": {
+      "cpu": 15.64,
+      "ram": 6.86,
+      "energy": 0.77
+    },
+    "cloud_workload": 1.6,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 58.04,
+      "ram": 27.92,
+      "battery": 99.77
+    },
+    "network": {
+      "bandwidth": 11.99,
+      "latency": 58.35
+    },
+    "cloud": {
+      "queue_delay": 5.2
+    },
+    "workload": {
+      "cpu": 19.3,
+      "ram": 6.31,
+      "energy": 1.19
+    },
+    "cloud_workload": 1.67,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 51.77,
+      "ram": 27.92,
+      "battery": 99.72
+    },
+    "network": {
+      "bandwidth": 13.76,
+      "latency": 57.52
+    },
+    "cloud": {
+      "queue_delay": 5.15
+    },
+    "workload": {
+      "cpu": 13.83,
+      "ram": 5.98,
+      "energy": 0.82
+    },
+    "cloud_workload": 2.47,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 48.91,
+      "ram": 27.19,
+      "battery": 99.67
+    },
+    "network": {
+      "bandwidth": 13.41,
+      "latency": 57.21
+    },
+    "cloud": {
+      "queue_delay": 4.97
+    },
+    "workload": {
+      "cpu": 13.83,
+      "ram": 5.19,
+      "energy": 1.11
+    },
+    "cloud_workload": 0.56,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 58.5,
+      "ram": 27.6,
+      "battery": 99.62
+    },
+    "network": {
+      "bandwidth": 16.21,
+      "latency": 54.26
+    },
+    "cloud": {
+      "queue_delay": 5.0
+    },
+    "workload": {
+      "cpu": 21.65,
+      "ram": 5.74,
+      "energy": 1.04
+    },
+    "cloud_workload": 0.86,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 50.39,
+      "ram": 29.47,
+      "battery": 99.57
+    },
+    "network": {
+      "bandwidth": 17.23,
+      "latency": 51.11
+    },
+    "cloud": {
+      "queue_delay": 5.11
+    },
+    "workload": {
+      "cpu": 11.27,
+      "ram": 7.71,
+      "energy": 1.33
+    },
+    "cloud_workload": 1.23,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 52.57,
+      "ram": 27.96,
+      "battery": 99.53
+    },
+    "network": {
+      "bandwidth": 15.67,
+      "latency": 51.15
+    },
+    "cloud": {
+      "queue_delay": 5.03
+    },
+    "workload": {
+      "cpu": 16.56,
+      "ram": 4.64,
+      "energy": 0.57
+    },
+    "cloud_workload": 0.89,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 58.52,
+      "ram": 26.32,
+      "battery": 99.48
+    },
+    "network": {
+      "bandwidth": 13.75,
+      "latency": 51.56
+    },
+    "cloud": {
+      "queue_delay": 4.86
+    },
+    "workload": {
+      "cpu": 20.76,
+      "ram": 3.79,
+      "energy": 0.94
+    },
+    "cloud_workload": 1.38,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 60.01,
+      "ram": 28.55,
+      "battery": 99.43
+    },
+    "network": {
+      "bandwidth": 11.44,
+      "latency": 53.99
+    },
+    "cloud": {
+      "queue_delay": 4.93
+    },
+    "workload": {
+      "cpu": 19.76,
+      "ram": 7.75,
+      "energy": 1.1
+    },
+    "cloud_workload": 2.47,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 55.22,
+      "ram": 27.94,
+      "battery": 99.37
+    },
+    "network": {
+      "bandwidth": 9.75,
+      "latency": 56.68
+    },
+    "cloud": {
+      "queue_delay": 4.91
+    },
+    "workload": {
+      "cpu": 16.11,
+      "ram": 5.62,
+      "energy": 1.37
+    },
+    "cloud_workload": 2.15,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 58.72,
+      "ram": 26.19,
+      "battery": 99.33
+    },
+    "network": {
+      "bandwidth": 10.22,
+      "latency": 58.51
+    },
+    "cloud": {
+      "queue_delay": 4.9
+    },
+    "workload": {
+      "cpu": 20.86,
+      "ram": 3.87,
+      "energy": 0.76
+    },
+    "cloud_workload": 2.47,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 51.29,
+      "ram": 27.85,
+      "battery": 99.27
+    },
+    "network": {
+      "bandwidth": 13.05,
+      "latency": 57.79
+    },
+    "cloud": {
+      "queue_delay": 4.88
+    },
+    "workload": {
+      "cpu": 13.84,
+      "ram": 7.6,
+      "energy": 1.46
+    },
+    "cloud_workload": 0.53,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 45.69,
+      "ram": 27.57,
+      "battery": 99.21
+    },
+    "network": {
+      "bandwidth": 12.35,
+      "latency": 58.09
+    },
+    "cloud": {
+      "queue_delay": 4.94
+    },
+    "workload": {
+      "cpu": 11.83,
+      "ram": 5.83,
+      "energy": 1.41
+    },
+    "cloud_workload": 2.42,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 48.0,
+      "ram": 25.87,
+      "battery": 99.17
+    },
+    "network": {
+      "bandwidth": 11.74,
+      "latency": 58.36
+    },
+    "cloud": {
+      "queue_delay": 4.98
+    },
+    "workload": {
+      "cpu": 15.65,
+      "ram": 3.13,
+      "energy": 1.01
+    },
+    "cloud_workload": 2.31,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 59.6,
+      "ram": 26.64,
+      "battery": 99.12
+    },
+    "network": {
+      "bandwidth": 10.44,
+      "latency": 59.66
+    },
+    "cloud": {
+      "queue_delay": 5.05
+    },
+    "workload": {
+      "cpu": 23.72,
+      "ram": 6.24,
+      "energy": 1.03
+    },
+    "cloud_workload": 1.4,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 45.93,
+      "ram": 25.35,
+      "battery": 99.08
+    },
+    "network": {
+      "bandwidth": 11.31,
+      "latency": 59.67
+    },
+    "cloud": {
+      "queue_delay": 5.18
+    },
+    "workload": {
+      "cpu": 10.13,
+      "ram": 3.17,
+      "energy": 0.58
+    },
+    "cloud_workload": 2.03,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 58.85,
+      "ram": 27.2,
+      "battery": 99.02
+    },
+    "network": {
+      "bandwidth": 10.7,
+      "latency": 60.07
+    },
+    "cloud": {
+      "queue_delay": 5.12
+    },
+    "workload": {
+      "cpu": 24.29,
+      "ram": 6.62,
+      "energy": 1.32
+    },
+    "cloud_workload": 2.07,
+    "scenario_id": 7,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 38.92,
+      "ram": 23.79,
+      "battery": 99.95
+    },
+    "network": {
+      "bandwidth": 13.92,
+      "latency": 56.8
+    },
+    "cloud": {
+      "queue_delay": 11.98
+    },
+    "workload": {
+      "cpu": 17.46,
+      "ram": 4.33,
+      "energy": 1.14
+    },
+    "cloud_workload": 5.94,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 44.59,
+      "ram": 26.42,
+      "battery": 99.91
+    },
+    "network": {
+      "bandwidth": 15.71,
+      "latency": 54.62
+    },
+    "cloud": {
+      "queue_delay": 11.87
+    },
+    "workload": {
+      "cpu": 14.76,
+      "ram": 6.38,
+      "energy": 0.59
+    },
+    "cloud_workload": 5.83,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 60.13,
+      "ram": 26.12,
+      "battery": 99.87
+    },
+    "network": {
+      "bandwidth": 16.97,
+      "latency": 52.32
+    },
+    "cloud": {
+      "queue_delay": 12.0
+    },
+    "workload": {
+      "cpu": 24.7,
+      "ram": 4.6,
+      "energy": 0.69
+    },
+    "cloud_workload": 5.76,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 59.02,
+      "ram": 28.24,
+      "battery": 99.81
+    },
+    "network": {
+      "bandwidth": 16.08,
+      "latency": 51.53
+    },
+    "cloud": {
+      "queue_delay": 12.0
+    },
+    "workload": {
+      "cpu": 19.52,
+      "ram": 7.58,
+      "energy": 1.46
+    },
+    "cloud_workload": 3.55,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 62.04,
+      "ram": 28.67,
+      "battery": 99.77
+    },
+    "network": {
+      "bandwidth": 15.41,
+      "latency": 50.33
+    },
+    "cloud": {
+      "queue_delay": 11.99
+    },
+    "workload": {
+      "cpu": 21.91,
+      "ram": 6.22,
+      "energy": 0.93
+    },
+    "cloud_workload": 4.89,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 50.87,
+      "ram": 29.68,
+      "battery": 99.72
+    },
+    "network": {
+      "bandwidth": 14.68,
+      "latency": 50.18
+    },
+    "cloud": {
+      "queue_delay": 12.0
+    },
+    "workload": {
+      "cpu": 11.59,
+      "ram": 7.55,
+      "energy": 0.77
+    },
+    "cloud_workload": 3.21,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 47.94,
+      "ram": 27.69,
+      "battery": 99.67
+    },
+    "network": {
+      "bandwidth": 13.93,
+      "latency": 51.32
+    },
+    "cloud": {
+      "queue_delay": 12.02
+    },
+    "workload": {
+      "cpu": 14.04,
+      "ram": 4.05,
+      "energy": 1.08
+    },
+    "cloud_workload": 3.69,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 56.85,
+      "ram": 27.57,
+      "battery": 99.61
+    },
+    "network": {
+      "bandwidth": 13.8,
+      "latency": 52.62
+    },
+    "cloud": {
+      "queue_delay": 11.91
+    },
+    "workload": {
+      "cpu": 22.8,
+      "ram": 6.13,
+      "energy": 1.47
+    },
+    "cloud_workload": 5.57,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 60.81,
+      "ram": 28.68,
+      "battery": 99.57
+    },
+    "network": {
+      "bandwidth": 13.46,
+      "latency": 53.4
+    },
+    "cloud": {
+      "queue_delay": 11.8
+    },
+    "workload": {
+      "cpu": 22.22,
+      "ram": 7.09,
+      "energy": 0.63
+    },
+    "cloud_workload": 5.69,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 58.61,
+      "ram": 25.91,
+      "battery": 99.54
+    },
+    "network": {
+      "bandwidth": 13.56,
+      "latency": 52.95
+    },
+    "cloud": {
+      "queue_delay": 11.77
+    },
+    "workload": {
+      "cpu": 17.75,
+      "ram": 3.03,
+      "energy": 0.51
+    },
+    "cloud_workload": 5.64,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 65.53,
+      "ram": 27.85,
+      "battery": 99.48
+    },
+    "network": {
+      "bandwidth": 13.79,
+      "latency": 53.35
+    },
+    "cloud": {
+      "queue_delay": 11.75
+    },
+    "workload": {
+      "cpu": 24.68,
+      "ram": 7.25,
+      "energy": 1.33
+    },
+    "cloud_workload": 3.43,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 52.9,
+      "ram": 27.47,
+      "battery": 99.44
+    },
+    "network": {
+      "bandwidth": 15.18,
+      "latency": 51.94
+    },
+    "cloud": {
+      "queue_delay": 11.79
+    },
+    "workload": {
+      "cpu": 12.05,
+      "ram": 4.88,
+      "energy": 0.75
+    },
+    "cloud_workload": 3.28,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 63.56,
+      "ram": 25.62,
+      "battery": 99.39
+    },
+    "network": {
+      "bandwidth": 16.53,
+      "latency": 50.87
+    },
+    "cloud": {
+      "queue_delay": 11.77
+    },
+    "workload": {
+      "cpu": 24.49,
+      "ram": 3.39,
+      "energy": 0.74
+    },
+    "cloud_workload": 5.09,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 64.8,
+      "ram": 26.04,
+      "battery": 99.35
+    },
+    "network": {
+      "bandwidth": 15.31,
+      "latency": 50.64
+    },
+    "cloud": {
+      "queue_delay": 11.73
+    },
+    "workload": {
+      "cpu": 22.31,
+      "ram": 5.35,
+      "energy": 0.9
+    },
+    "cloud_workload": 3.09,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 51.74,
+      "ram": 26.46,
+      "battery": 99.3
+    },
+    "network": {
+      "bandwidth": 16.99,
+      "latency": 48.32
+    },
+    "cloud": {
+      "queue_delay": 11.73
+    },
+    "workload": {
+      "cpu": 10.29,
+      "ram": 5.22,
+      "energy": 1.14
+    },
+    "cloud_workload": 4.96,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 54.81,
+      "ram": 26.39,
+      "battery": 99.25
+    },
+    "network": {
+      "bandwidth": 17.51,
+      "latency": 46.06
+    },
+    "cloud": {
+      "queue_delay": 11.8
+    },
+    "workload": {
+      "cpu": 17.79,
+      "ram": 5.49,
+      "energy": 0.8
+    },
+    "cloud_workload": 3.37,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 48.59,
+      "ram": 25.24,
+      "battery": 99.21
+    },
+    "network": {
+      "bandwidth": 17.6,
+      "latency": 45.79
+    },
+    "cloud": {
+      "queue_delay": 11.79
+    },
+    "workload": {
+      "cpu": 11.68,
+      "ram": 3.44,
+      "energy": 0.66
+    },
+    "cloud_workload": 3.39,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 61.67,
+      "ram": 24.31,
+      "battery": 99.16
+    },
+    "network": {
+      "bandwidth": 17.01,
+      "latency": 45.65
+    },
+    "cloud": {
+      "queue_delay": 11.95
+    },
+    "workload": {
+      "cpu": 24.38,
+      "ram": 3.08,
+      "energy": 1.0
+    },
+    "cloud_workload": 4.29,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 66.66,
+      "ram": 26.54,
+      "battery": 99.13
+    },
+    "network": {
+      "bandwidth": 14.68,
+      "latency": 46.78
+    },
+    "cloud": {
+      "queue_delay": 12.11
+    },
+    "workload": {
+      "cpu": 24.94,
+      "ram": 6.49,
+      "energy": 0.53
+    },
+    "cloud_workload": 5.23,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 51.52,
+      "ram": 27.25,
+      "battery": 99.07
+    },
+    "network": {
+      "bandwidth": 14.11,
+      "latency": 48.67
+    },
+    "cloud": {
+      "queue_delay": 12.29
+    },
+    "workload": {
+      "cpu": 10.4,
+      "ram": 6.03,
+      "energy": 1.33
+    },
+    "cloud_workload": 5.56,
+    "scenario_id": 8,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 34.52,
+      "ram": 24.3,
+      "battery": 99.96
+    },
+    "network": {
+      "bandwidth": 12.49,
+      "latency": 57.44
+    },
+    "cloud": {
+      "queue_delay": 25.38
+    },
+    "workload": {
+      "cpu": 13.65,
+      "ram": 5.51,
+      "energy": 0.66
+    },
+    "cloud_workload": 8.47,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 43.07,
+      "ram": 27.28,
+      "battery": 99.91
+    },
+    "network": {
+      "bandwidth": 11.18,
+      "latency": 58.8
+    },
+    "cloud": {
+      "queue_delay": 26.71
+    },
+    "workload": {
+      "cpu": 15.96,
+      "ram": 7.84,
+      "energy": 1.23
+    },
+    "cloud_workload": 9.75,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 49.35,
+      "ram": 27.2,
+      "battery": 99.85
+    },
+    "network": {
+      "bandwidth": 10.89,
+      "latency": 59.88
+    },
+    "cloud": {
+      "queue_delay": 28.45
+    },
+    "workload": {
+      "cpu": 18.79,
+      "ram": 4.8,
+      "energy": 1.5
+    },
+    "cloud_workload": 8.94,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 48.06,
+      "ram": 27.38,
+      "battery": 99.8
+    },
+    "network": {
+      "bandwidth": 10.73,
+      "latency": 61.0
+    },
+    "cloud": {
+      "queue_delay": 30.19
+    },
+    "workload": {
+      "cpu": 13.87,
+      "ram": 5.39,
+      "energy": 1.31
+    },
+    "cloud_workload": 6.68,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 49.86,
+      "ram": 28.41,
+      "battery": 99.74
+    },
+    "network": {
+      "bandwidth": 10.87,
+      "latency": 61.49
+    },
+    "cloud": {
+      "queue_delay": 32.4
+    },
+    "workload": {
+      "cpu": 15.51,
+      "ram": 6.93,
+      "energy": 1.43
+    },
+    "cloud_workload": 8.99,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 58.09,
+      "ram": 28.32,
+      "battery": 99.68
+    },
+    "network": {
+      "bandwidth": 12.06,
+      "latency": 60.75
+    },
+    "cloud": {
+      "queue_delay": 34.67
+    },
+    "workload": {
+      "cpu": 22.56,
+      "ram": 5.35,
+      "energy": 1.41
+    },
+    "cloud_workload": 7.44,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 63.47,
+      "ram": 29.88,
+      "battery": 99.63
+    },
+    "network": {
+      "bandwidth": 11.91,
+      "latency": 60.34
+    },
+    "cloud": {
+      "queue_delay": 36.94
+    },
+    "workload": {
+      "cpu": 22.39,
+      "ram": 7.1,
+      "energy": 1.09
+    },
+    "cloud_workload": 6.92,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 57.75,
+      "ram": 28.56,
+      "battery": 99.59
+    },
+    "network": {
+      "bandwidth": 12.12,
+      "latency": 60.12
+    },
+    "cloud": {
+      "queue_delay": 39.45
+    },
+    "workload": {
+      "cpu": 16.52,
+      "ram": 5.07,
+      "energy": 0.7
+    },
+    "cloud_workload": 7.27,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 63.12,
+      "ram": 28.48,
+      "battery": 99.54
+    },
+    "network": {
+      "bandwidth": 12.51,
+      "latency": 59.49
+    },
+    "cloud": {
+      "queue_delay": 42.44
+    },
+    "workload": {
+      "cpu": 23.56,
+      "ram": 5.75,
+      "energy": 0.68
+    },
+    "cloud_workload": 9.93,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 62.67,
+      "ram": 30.16,
+      "battery": 99.49
+    },
+    "network": {
+      "bandwidth": 13.51,
+      "latency": 58.3
+    },
+    "cloud": {
+      "queue_delay": 45.68
+    },
+    "workload": {
+      "cpu": 19.77,
+      "ram": 7.91,
+      "energy": 1.33
+    },
+    "cloud_workload": 8.71,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 64.37,
+      "ram": 29.46,
+      "battery": 99.44
+    },
+    "network": {
+      "bandwidth": 12.25,
+      "latency": 58.79
+    },
+    "cloud": {
+      "queue_delay": 48.95
+    },
+    "workload": {
+      "cpu": 23.98,
+      "ram": 6.22,
+      "energy": 1.04
+    },
+    "cloud_workload": 7.76,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 65.12,
+      "ram": 26.93,
+      "battery": 99.39
+    },
+    "network": {
+      "bandwidth": 10.32,
+      "latency": 60.82
+    },
+    "cloud": {
+      "queue_delay": 51.98
+    },
+    "workload": {
+      "cpu": 22.59,
+      "ram": 3.14,
+      "energy": 0.92
+    },
+    "cloud_workload": 7.79,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 61.46,
+      "ram": 27.81,
+      "battery": 99.33
+    },
+    "network": {
+      "bandwidth": 8.76,
+      "latency": 62.3
+    },
+    "cloud": {
+      "queue_delay": 55.25
+    },
+    "workload": {
+      "cpu": 18.7,
+      "ram": 5.8,
+      "energy": 1.36
+    },
+    "cloud_workload": 6.92,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 66.33,
+      "ram": 25.51,
+      "battery": 99.28
+    },
+    "network": {
+      "bandwidth": 8.28,
+      "latency": 64.61
+    },
+    "cloud": {
+      "queue_delay": 58.31
+    },
+    "workload": {
+      "cpu": 24.68,
+      "ram": 3.27,
+      "energy": 0.96
+    },
+    "cloud_workload": 6.58,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 68.66,
+      "ram": 26.87,
+      "battery": 99.22
+    },
+    "network": {
+      "bandwidth": 7.65,
+      "latency": 66.76
+    },
+    "cloud": {
+      "queue_delay": 61.67
+    },
+    "workload": {
+      "cpu": 24.73,
+      "ram": 5.76,
+      "energy": 1.39
+    },
+    "cloud_workload": 8.69,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 60.92,
+      "ram": 27.67,
+      "battery": 99.18
+    },
+    "network": {
+      "bandwidth": 9.22,
+      "latency": 66.67
+    },
+    "cloud": {
+      "queue_delay": 64.95
+    },
+    "workload": {
+      "cpu": 16.33,
+      "ram": 6.92,
+      "energy": 0.61
+    },
+    "cloud_workload": 7.59,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 48.87,
+      "ram": 27.91,
+      "battery": 99.13
+    },
+    "network": {
+      "bandwidth": 9.39,
+      "latency": 66.91
+    },
+    "cloud": {
+      "queue_delay": 68.27
+    },
+    "workload": {
+      "cpu": 10.17,
+      "ram": 6.3,
+      "energy": 1.18
+    },
+    "cloud_workload": 6.94,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 47.97,
+      "ram": 28.49,
+      "battery": 99.08
+    },
+    "network": {
+      "bandwidth": 10.11,
+      "latency": 66.13
+    },
+    "cloud": {
+      "queue_delay": 71.5
+    },
+    "workload": {
+      "cpu": 14.25,
+      "ram": 6.52,
+      "energy": 1.17
+    },
+    "cloud_workload": 6.8,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 43.46,
+      "ram": 28.42,
+      "battery": 99.04
+    },
+    "network": {
+      "bandwidth": 8.27,
+      "latency": 66.93
+    },
+    "cloud": {
+      "queue_delay": 74.49
+    },
+    "workload": {
+      "cpu": 10.25,
+      "ram": 6.88,
+      "energy": 0.78
+    },
+    "cloud_workload": 8.56,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 55.65,
+      "ram": 27.2,
+      "battery": 98.99
+    },
+    "network": {
+      "bandwidth": 7.6,
+      "latency": 68.28
+    },
+    "cloud": {
+      "queue_delay": 78.02
+    },
+    "workload": {
+      "cpu": 22.86,
+      "ram": 4.93,
+      "energy": 0.82
+    },
+    "cloud_workload": 9.75,
+    "scenario_id": 9,
+    "device_type": "smartphone",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 51.0,
+      "ram": 25.3,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 85.13,
+      "latency": 9.88
+    },
+    "cloud": {
+      "queue_delay": 4.92
+    },
+    "workload": {
+      "cpu": 24.68,
+      "ram": 3.27,
+      "energy": 1.23
+    },
+    "cloud_workload": 2.33,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 53.39,
+      "ram": 30.97,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 85.43,
+      "latency": 10.41
+    },
+    "cloud": {
+      "queue_delay": 4.91
+    },
+    "workload": {
+      "cpu": 12.39,
+      "ram": 7.97,
+      "energy": 0.91
+    },
+    "cloud_workload": 2.42,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 63.52,
+      "ram": 29.26,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 83.46,
+      "latency": 10.58
+    },
+    "cloud": {
+      "queue_delay": 4.81
+    },
+    "workload": {
+      "cpu": 19.46,
+      "ram": 3.17,
+      "energy": 0.89
+    },
+    "cloud_workload": 1.39,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 62.46,
+      "ram": 32.32,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 78.89,
+      "latency": 11.0
+    },
+    "cloud": {
+      "queue_delay": 4.97
+    },
+    "workload": {
+      "cpu": 14.12,
+      "ram": 6.89,
+      "energy": 0.92
+    },
+    "cloud_workload": 2.26,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 71.87,
+      "ram": 34.06,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 78.34,
+      "latency": 11.68
+    },
+    "cloud": {
+      "queue_delay": 4.88
+    },
+    "workload": {
+      "cpu": 23.43,
+      "ram": 7.74,
+      "energy": 1.08
+    },
+    "cloud_workload": 0.61,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 70.88,
+      "ram": 33.53,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 85.84,
+      "latency": 11.38
+    },
+    "cloud": {
+      "queue_delay": 4.88
+    },
+    "workload": {
+      "cpu": 17.81,
+      "ram": 5.65,
+      "energy": 0.68
+    },
+    "cloud_workload": 1.58,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 73.82,
+      "ram": 34.54,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 83.05,
+      "latency": 11.31
+    },
+    "cloud": {
+      "queue_delay": 5.1
+    },
+    "workload": {
+      "cpu": 20.46,
+      "ram": 7.06,
+      "energy": 1.16
+    },
+    "cloud_workload": 2.36,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 72.71,
+      "ram": 33.41,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 81.02,
+      "latency": 11.2
+    },
+    "cloud": {
+      "queue_delay": 5.31
+    },
+    "workload": {
+      "cpu": 17.94,
+      "ram": 5.28,
+      "energy": 0.67
+    },
+    "cloud_workload": 1.02,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 63.47,
+      "ram": 33.3,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 82.82,
+      "latency": 11.22
+    },
+    "cloud": {
+      "queue_delay": 5.22
+    },
+    "workload": {
+      "cpu": 11.93,
+      "ram": 6.0,
+      "energy": 0.81
+    },
+    "cloud_workload": 1.38,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 70.67,
+      "ram": 31.38,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 83.69,
+      "latency": 10.82
+    },
+    "cloud": {
+      "queue_delay": 5.17
+    },
+    "workload": {
+      "cpu": 21.71,
+      "ram": 3.75,
+      "energy": 1.46
+    },
+    "cloud_workload": 1.03,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 68.95,
+      "ram": 34.4,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 82.93,
+      "latency": 10.78
+    },
+    "cloud": {
+      "queue_delay": 5.13
+    },
+    "workload": {
+      "cpu": 16.8,
+      "ram": 7.76,
+      "energy": 1.31
+    },
+    "cloud_workload": 0.54,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 75.8,
+      "ram": 33.92,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 85.77,
+      "latency": 10.84
+    },
+    "cloud": {
+      "queue_delay": 5.05
+    },
+    "workload": {
+      "cpu": 23.49,
+      "ram": 5.65,
+      "energy": 1.17
+    },
+    "cloud_workload": 0.99,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 66.14,
+      "ram": 34.35,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 84.84,
+      "latency": 10.83
+    },
+    "cloud": {
+      "queue_delay": 4.85
+    },
+    "workload": {
+      "cpu": 12.19,
+      "ram": 6.62,
+      "energy": 1.4
+    },
+    "cloud_workload": 1.9,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 61.59,
+      "ram": 34.23,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 85.19,
+      "latency": 10.71
+    },
+    "cloud": {
+      "queue_delay": 4.79
+    },
+    "workload": {
+      "cpu": 12.34,
+      "ram": 6.7,
+      "energy": 1.11
+    },
+    "cloud_workload": 0.98,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 57.11,
+      "ram": 33.01,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 82.1,
+      "latency": 10.72
+    },
+    "cloud": {
+      "queue_delay": 4.85
+    },
+    "workload": {
+      "cpu": 12.26,
+      "ram": 5.29,
+      "energy": 0.55
+    },
+    "cloud_workload": 0.53,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 73.15,
+      "ram": 31.8,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 82.4,
+      "latency": 10.95
+    },
+    "cloud": {
+      "queue_delay": 4.95
+    },
+    "workload": {
+      "cpu": 24.91,
+      "ram": 4.62,
+      "energy": 0.71
+    },
+    "cloud_workload": 1.29,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 63.98,
+      "ram": 32.85,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 77.81,
+      "latency": 10.85
+    },
+    "cloud": {
+      "queue_delay": 5.11
+    },
+    "workload": {
+      "cpu": 11.21,
+      "ram": 6.88,
+      "energy": 0.76
+    },
+    "cloud_workload": 2.29,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 66.95,
+      "ram": 31.64,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 79.45,
+      "latency": 11.15
+    },
+    "cloud": {
+      "queue_delay": 5.1
+    },
+    "workload": {
+      "cpu": 18.22,
+      "ram": 4.58,
+      "energy": 1.38
+    },
+    "cloud_workload": 2.35,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 66.17,
+      "ram": 29.66,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 81.65,
+      "latency": 11.39
+    },
+    "cloud": {
+      "queue_delay": 5.08
+    },
+    "workload": {
+      "cpu": 16.09,
+      "ram": 3.43,
+      "energy": 0.72
+    },
+    "cloud_workload": 1.09,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 64.99,
+      "ram": 31.96,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 80.83,
+      "latency": 11.47
+    },
+    "cloud": {
+      "queue_delay": 5.03
+    },
+    "workload": {
+      "cpu": 13.91,
+      "ram": 6.98,
+      "energy": 1.18
+    },
+    "cloud_workload": 0.62,
+    "scenario_id": 10,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 45.62,
+      "ram": 28.8,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 89.7,
+      "latency": 9.76
+    },
+    "cloud": {
+      "queue_delay": 12.1
+    },
+    "workload": {
+      "cpu": 19.26,
+      "ram": 7.45,
+      "energy": 0.96
+    },
+    "cloud_workload": 3.27,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 60.08,
+      "ram": 32.55,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 89.15,
+      "latency": 10.1
+    },
+    "cloud": {
+      "queue_delay": 12.21
+    },
+    "workload": {
+      "cpu": 20.92,
+      "ram": 7.29,
+      "energy": 0.54
+    },
+    "cloud_workload": 5.52,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 69.93,
+      "ram": 31.44,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 89.03,
+      "latency": 9.82
+    },
+    "cloud": {
+      "queue_delay": 12.12
+    },
+    "workload": {
+      "cpu": 21.2,
+      "ram": 4.3,
+      "energy": 1.24
+    },
+    "cloud_workload": 3.91,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 62.88,
+      "ram": 31.7,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 90.63,
+      "latency": 9.45
+    },
+    "cloud": {
+      "queue_delay": 11.84
+    },
+    "workload": {
+      "cpu": 12.07,
+      "ram": 5.54,
+      "energy": 1.15
+    },
+    "cloud_workload": 4.99,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 76.2,
+      "ram": 29.96,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 94.68,
+      "latency": 9.66
+    },
+    "cloud": {
+      "queue_delay": 11.85
+    },
+    "workload": {
+      "cpu": 24.73,
+      "ram": 3.28,
+      "energy": 0.78
+    },
+    "cloud_workload": 4.16,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 68.58,
+      "ram": 31.93,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 91.75,
+      "latency": 10.36
+    },
+    "cloud": {
+      "queue_delay": 11.78
+    },
+    "workload": {
+      "cpu": 13.71,
+      "ram": 6.89,
+      "energy": 1.26
+    },
+    "cloud_workload": 4.6,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 64.04,
+      "ram": 31.45,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 94.55,
+      "latency": 9.71
+    },
+    "cloud": {
+      "queue_delay": 11.84
+    },
+    "workload": {
+      "cpu": 13.47,
+      "ram": 4.72,
+      "energy": 1.46
+    },
+    "cloud_workload": 4.9,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 73.04,
+      "ram": 29.42,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 93.38,
+      "latency": 9.35
+    },
+    "cloud": {
+      "queue_delay": 12.03
+    },
+    "workload": {
+      "cpu": 22.31,
+      "ram": 3.26,
+      "energy": 0.98
+    },
+    "cloud_workload": 4.71,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 66.95,
+      "ram": 30.05,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 92.59,
+      "latency": 9.59
+    },
+    "cloud": {
+      "queue_delay": 11.86
+    },
+    "workload": {
+      "cpu": 13.52,
+      "ram": 4.92,
+      "energy": 0.64
+    },
+    "cloud_workload": 3.16,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 70.44,
+      "ram": 31.06,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 91.84,
+      "latency": 10.22
+    },
+    "cloud": {
+      "queue_delay": 11.88
+    },
+    "workload": {
+      "cpu": 19.86,
+      "ram": 5.37,
+      "energy": 1.02
+    },
+    "cloud_workload": 3.59,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 63.52,
+      "ram": 30.74,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 99.83,
+      "latency": 9.65
+    },
+    "cloud": {
+      "queue_delay": 11.93
+    },
+    "workload": {
+      "cpu": 13.01,
+      "ram": 4.51,
+      "energy": 1.24
+    },
+    "cloud_workload": 4.23,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 69.29,
+      "ram": 30.1,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 101.06,
+      "latency": 8.73
+    },
+    "cloud": {
+      "queue_delay": 11.9
+    },
+    "workload": {
+      "cpu": 19.77,
+      "ram": 4.14,
+      "energy": 0.96
+    },
+    "cloud_workload": 5.8,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 63.09,
+      "ram": 33.11,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 102.17,
+      "latency": 8.47
+    },
+    "cloud": {
+      "queue_delay": 11.73
+    },
+    "workload": {
+      "cpu": 12.87,
+      "ram": 7.54,
+      "energy": 1.12
+    },
+    "cloud_workload": 4.09,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 58.25,
+      "ram": 31.03,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 101.4,
+      "latency": 8.34
+    },
+    "cloud": {
+      "queue_delay": 11.83
+    },
+    "workload": {
+      "cpu": 12.01,
+      "ram": 3.9,
+      "energy": 1.45
+    },
+    "cloud_workload": 3.66,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 54.63,
+      "ram": 33.28,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 102.23,
+      "latency": 8.73
+    },
+    "cloud": {
+      "queue_delay": 11.97
+    },
+    "workload": {
+      "cpu": 11.44,
+      "ram": 7.37,
+      "energy": 0.75
+    },
+    "cloud_workload": 4.32,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 56.32,
+      "ram": 33.32,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 101.84,
+      "latency": 8.51
+    },
+    "cloud": {
+      "queue_delay": 12.09
+    },
+    "workload": {
+      "cpu": 13.9,
+      "ram": 6.47,
+      "energy": 0.76
+    },
+    "cloud_workload": 4.25,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 70.59,
+      "ram": 34.08,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 99.48,
+      "latency": 8.51
+    },
+    "cloud": {
+      "queue_delay": 12.16
+    },
+    "workload": {
+      "cpu": 23.84,
+      "ram": 6.36,
+      "energy": 1.1
+    },
+    "cloud_workload": 4.81,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 61.52,
+      "ram": 33.67,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 105.76,
+      "latency": 8.09
+    },
+    "cloud": {
+      "queue_delay": 11.93
+    },
+    "workload": {
+      "cpu": 10.93,
+      "ram": 5.66,
+      "energy": 0.93
+    },
+    "cloud_workload": 3.76,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 62.84,
+      "ram": 32.89,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 101.68,
+      "latency": 7.48
+    },
+    "cloud": {
+      "queue_delay": 11.94
+    },
+    "workload": {
+      "cpu": 16.47,
+      "ram": 5.66,
+      "energy": 0.98
+    },
+    "cloud_workload": 5.1,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 70.95,
+      "ram": 30.35,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 97.28,
+      "latency": 7.89
+    },
+    "cloud": {
+      "queue_delay": 11.99
+    },
+    "workload": {
+      "cpu": 22.06,
+      "ram": 3.27,
+      "energy": 0.76
+    },
+    "cloud_workload": 4.24,
+    "scenario_id": 11,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 49.65,
+      "ram": 25.72,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 95.08,
+      "latency": 9.98
+    },
+    "cloud": {
+      "queue_delay": 25.64
+    },
+    "workload": {
+      "cpu": 23.7,
+      "ram": 3.69,
+      "energy": 1.06
+    },
+    "cloud_workload": 9.86,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 60.39,
+      "ram": 28.37,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 99.58,
+      "latency": 9.72
+    },
+    "cloud": {
+      "queue_delay": 26.98
+    },
+    "workload": {
+      "cpu": 18.66,
+      "ram": 4.91,
+      "energy": 1.41
+    },
+    "cloud_workload": 9.07,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 54.96,
+      "ram": 32.37,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 96.73,
+      "latency": 9.4
+    },
+    "cloud": {
+      "queue_delay": 28.6
+    },
+    "workload": {
+      "cpu": 10.84,
+      "ram": 7.95,
+      "energy": 1.05
+    },
+    "cloud_workload": 7.68,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 56.46,
+      "ram": 30.54,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 99.92,
+      "latency": 8.97
+    },
+    "cloud": {
+      "queue_delay": 30.6
+    },
+    "workload": {
+      "cpu": 14.1,
+      "ram": 3.71,
+      "energy": 1.5
+    },
+    "cloud_workload": 8.57,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 61.88,
+      "ram": 33.3,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 94.12,
+      "latency": 8.92
+    },
+    "cloud": {
+      "queue_delay": 32.68
+    },
+    "workload": {
+      "cpu": 16.57,
+      "ram": 7.49,
+      "energy": 0.88
+    },
+    "cloud_workload": 6.83,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 72.82,
+      "ram": 34.03,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 92.75,
+      "latency": 8.92
+    },
+    "cloud": {
+      "queue_delay": 35.24
+    },
+    "workload": {
+      "cpu": 23.39,
+      "ram": 6.67,
+      "energy": 0.64
+    },
+    "cloud_workload": 8.23,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 76.25,
+      "ram": 32.95,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 95.86,
+      "latency": 8.9
+    },
+    "cloud": {
+      "queue_delay": 37.54
+    },
+    "workload": {
+      "cpu": 20.51,
+      "ram": 5.23,
+      "energy": 1.08
+    },
+    "cloud_workload": 6.12,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 72.72,
+      "ram": 31.13,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 94.35,
+      "latency": 8.68
+    },
+    "cloud": {
+      "queue_delay": 39.97
+    },
+    "workload": {
+      "cpu": 17.27,
+      "ram": 4.18,
+      "energy": 0.84
+    },
+    "cloud_workload": 8.46,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 79.74,
+      "ram": 30.48,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 94.86,
+      "latency": 8.79
+    },
+    "cloud": {
+      "queue_delay": 42.7
+    },
+    "workload": {
+      "cpu": 23.42,
+      "ram": 4.82,
+      "energy": 0.52
+    },
+    "cloud_workload": 7.78,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 71.85,
+      "ram": 32.88,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 95.53,
+      "latency": 8.92
+    },
+    "cloud": {
+      "queue_delay": 45.36
+    },
+    "workload": {
+      "cpu": 15.32,
+      "ram": 6.83,
+      "energy": 0.58
+    },
+    "cloud_workload": 6.25,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 66.62,
+      "ram": 32.36,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 100.54,
+      "latency": 8.3
+    },
+    "cloud": {
+      "queue_delay": 48.25
+    },
+    "workload": {
+      "cpu": 13.45,
+      "ram": 5.32,
+      "energy": 0.66
+    },
+    "cloud_workload": 8.7,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 64.02,
+      "ram": 33.86,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 99.02,
+      "latency": 8.53
+    },
+    "cloud": {
+      "queue_delay": 51.39
+    },
+    "workload": {
+      "cpu": 14.11,
+      "ram": 6.91,
+      "energy": 1.3
+    },
+    "cloud_workload": 8.56,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 68.41,
+      "ram": 32.74,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 100.31,
+      "latency": 8.06
+    },
+    "cloud": {
+      "queue_delay": 54.73
+    },
+    "workload": {
+      "cpu": 19.07,
+      "ram": 4.92,
+      "energy": 0.92
+    },
+    "cloud_workload": 8.7,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 70.01,
+      "ram": 30.3,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 100.81,
+      "latency": 8.24
+    },
+    "cloud": {
+      "queue_delay": 57.69
+    },
+    "workload": {
+      "cpu": 18.67,
+      "ram": 3.49,
+      "energy": 1.04
+    },
+    "cloud_workload": 6.0,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 75.85,
+      "ram": 31.76,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 105.3,
+      "latency": 7.83
+    },
+    "cloud": {
+      "queue_delay": 60.67
+    },
+    "workload": {
+      "cpu": 22.56,
+      "ram": 5.98,
+      "energy": 1.16
+    },
+    "cloud_workload": 8.44,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 72.81,
+      "ram": 34.08,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 106.39,
+      "latency": 7.71
+    },
+    "cloud": {
+      "queue_delay": 63.89
+    },
+    "workload": {
+      "cpu": 18.35,
+      "ram": 7.65,
+      "energy": 1.32
+    },
+    "cloud_workload": 6.78,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 80.21,
+      "ram": 31.36,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 105.17,
+      "latency": 7.83
+    },
+    "cloud": {
+      "queue_delay": 67.11
+    },
+    "workload": {
+      "cpu": 24.41,
+      "ram": 3.47,
+      "energy": 0.7
+    },
+    "cloud_workload": 8.0,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 67.24,
+      "ram": 30.22,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 104.26,
+      "latency": 7.66
+    },
+    "cloud": {
+      "queue_delay": 70.44
+    },
+    "workload": {
+      "cpu": 11.93,
+      "ram": 4.01,
+      "energy": 1.24
+    },
+    "cloud_workload": 9.16,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 72.77,
+      "ram": 29.9,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 105.62,
+      "latency": 7.13
+    },
+    "cloud": {
+      "queue_delay": 73.49
+    },
+    "workload": {
+      "cpu": 22.06,
+      "ram": 4.3,
+      "energy": 0.59
+    },
+    "cloud_workload": 6.04,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 65.6,
+      "ram": 32.68,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 106.49,
+      "latency": 7.22
+    },
+    "cloud": {
+      "queue_delay": 76.95
+    },
+    "workload": {
+      "cpu": 12.77,
+      "ram": 7.35,
+      "energy": 0.97
+    },
+    "cloud_workload": 9.65,
+    "scenario_id": 12,
+    "device_type": "raspberry_pi",
+    "network_condition": "good",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 36.01,
+      "ram": 29.19,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 47.63,
+      "latency": 23.15
+    },
+    "cloud": {
+      "queue_delay": 5.09
+    },
+    "workload": {
+      "cpu": 11.36,
+      "ram": 7.75,
+      "energy": 0.65
+    },
+    "cloud_workload": 0.59,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 47.51,
+      "ram": 31.51,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 48.7,
+      "latency": 23.17
+    },
+    "cloud": {
+      "queue_delay": 5.08
+    },
+    "workload": {
+      "cpu": 15.27,
+      "ram": 6.61,
+      "energy": 1.47
+    },
+    "cloud_workload": 2.45,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 54.09,
+      "ram": 31.52,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 43.31,
+      "latency": 23.68
+    },
+    "cloud": {
+      "queue_delay": 5.07
+    },
+    "workload": {
+      "cpu": 15.82,
+      "ram": 5.03,
+      "energy": 1.22
+    },
+    "cloud_workload": 2.45,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 51.24,
+      "ram": 30.09,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 45.09,
+      "latency": 23.9
+    },
+    "cloud": {
+      "queue_delay": 5.04
+    },
+    "workload": {
+      "cpu": 10.62,
+      "ram": 4.15,
+      "energy": 1.21
+    },
+    "cloud_workload": 1.97,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 50.74,
+      "ram": 29.58,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 46.54,
+      "latency": 23.38
+    },
+    "cloud": {
+      "queue_delay": 5.14
+    },
+    "workload": {
+      "cpu": 10.79,
+      "ram": 4.16,
+      "energy": 1.0
+    },
+    "cloud_workload": 1.71,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 54.63,
+      "ram": 32.62,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 42.41,
+      "latency": 24.27
+    },
+    "cloud": {
+      "queue_delay": 5.09
+    },
+    "workload": {
+      "cpu": 14.58,
+      "ram": 7.15,
+      "energy": 0.61
+    },
+    "cloud_workload": 1.95,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 58.87,
+      "ram": 30.85,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 46.84,
+      "latency": 24.3
+    },
+    "cloud": {
+      "queue_delay": 4.99
+    },
+    "workload": {
+      "cpu": 15.43,
+      "ram": 4.02,
+      "energy": 0.97
+    },
+    "cloud_workload": 1.59,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 59.33,
+      "ram": 29.41,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 52.06,
+      "latency": 23.17
+    },
+    "cloud": {
+      "queue_delay": 4.93
+    },
+    "workload": {
+      "cpu": 14.53,
+      "ram": 3.65,
+      "energy": 1.2
+    },
+    "cloud_workload": 0.78,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 66.37,
+      "ram": 28.62,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 51.59,
+      "latency": 22.84
+    },
+    "cloud": {
+      "queue_delay": 4.83
+    },
+    "workload": {
+      "cpu": 19.04,
+      "ram": 3.53,
+      "energy": 1.32
+    },
+    "cloud_workload": 0.81,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 62.89,
+      "ram": 28.89,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 52.07,
+      "latency": 22.51
+    },
+    "cloud": {
+      "queue_delay": 4.93
+    },
+    "workload": {
+      "cpu": 14.47,
+      "ram": 4.35,
+      "energy": 0.58
+    },
+    "cloud_workload": 1.68,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 66.06,
+      "ram": 30.45,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 51.55,
+      "latency": 21.94
+    },
+    "cloud": {
+      "queue_delay": 5.1
+    },
+    "workload": {
+      "cpu": 17.3,
+      "ram": 5.41,
+      "energy": 1.05
+    },
+    "cloud_workload": 1.54,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 60.83,
+      "ram": 30.28,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 50.13,
+      "latency": 21.59
+    },
+    "cloud": {
+      "queue_delay": 5.06
+    },
+    "workload": {
+      "cpu": 12.62,
+      "ram": 4.38,
+      "energy": 1.48
+    },
+    "cloud_workload": 1.29,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 60.52,
+      "ram": 30.63,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 51.63,
+      "latency": 21.82
+    },
+    "cloud": {
+      "queue_delay": 4.87
+    },
+    "workload": {
+      "cpu": 15.33,
+      "ram": 5.09,
+      "energy": 1.2
+    },
+    "cloud_workload": 1.39,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 59.44,
+      "ram": 30.76,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 54.01,
+      "latency": 21.54
+    },
+    "cloud": {
+      "queue_delay": 4.96
+    },
+    "workload": {
+      "cpu": 13.0,
+      "ram": 4.64,
+      "energy": 1.03
+    },
+    "cloud_workload": 0.6,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 66.59,
+      "ram": 30.3,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 54.57,
+      "latency": 21.0
+    },
+    "cloud": {
+      "queue_delay": 4.88
+    },
+    "workload": {
+      "cpu": 19.69,
+      "ram": 4.04,
+      "energy": 1.44
+    },
+    "cloud_workload": 1.53,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 65.53,
+      "ram": 32.24,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 53.38,
+      "latency": 21.07
+    },
+    "cloud": {
+      "queue_delay": 4.93
+    },
+    "workload": {
+      "cpu": 16.68,
+      "ram": 6.24,
+      "energy": 0.51
+    },
+    "cloud_workload": 1.11,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 68.5,
+      "ram": 30.83,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 55.23,
+      "latency": 20.63
+    },
+    "cloud": {
+      "queue_delay": 4.9
+    },
+    "workload": {
+      "cpu": 18.93,
+      "ram": 4.27,
+      "energy": 0.98
+    },
+    "cloud_workload": 1.2,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 76.41,
+      "ram": 29.98,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 54.98,
+      "latency": 20.19
+    },
+    "cloud": {
+      "queue_delay": 4.89
+    },
+    "workload": {
+      "cpu": 23.11,
+      "ram": 4.03,
+      "energy": 1.01
+    },
+    "cloud_workload": 1.44,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 79.13,
+      "ram": 31.14,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 52.55,
+      "latency": 20.76
+    },
+    "cloud": {
+      "queue_delay": 4.91
+    },
+    "workload": {
+      "cpu": 22.12,
+      "ram": 5.38,
+      "energy": 1.45
+    },
+    "cloud_workload": 0.61,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 73.7,
+      "ram": 31.44,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 52.73,
+      "latency": 21.13
+    },
+    "cloud": {
+      "queue_delay": 4.98
+    },
+    "workload": {
+      "cpu": 16.39,
+      "ram": 5.14,
+      "energy": 0.89
+    },
+    "cloud_workload": 1.02,
+    "scenario_id": 13,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 51.31,
+      "ram": 27.68,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 48.9,
+      "latency": 23.63
+    },
+    "cloud": {
+      "queue_delay": 11.85
+    },
+    "workload": {
+      "cpu": 24.49,
+      "ram": 5.8,
+      "energy": 0.97
+    },
+    "cloud_workload": 4.74,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 54.5,
+      "ram": 28.63,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 49.75,
+      "latency": 23.5
+    },
+    "cloud": {
+      "queue_delay": 11.69
+    },
+    "workload": {
+      "cpu": 13.46,
+      "ram": 4.87,
+      "energy": 0.57
+    },
+    "cloud_workload": 3.12,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 56.02,
+      "ram": 31.42,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 49.97,
+      "latency": 23.54
+    },
+    "cloud": {
+      "queue_delay": 11.94
+    },
+    "workload": {
+      "cpu": 13.11,
+      "ram": 6.8,
+      "energy": 0.71
+    },
+    "cloud_workload": 4.06,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 55.59,
+      "ram": 33.55,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 49.96,
+      "latency": 23.22
+    },
+    "cloud": {
+      "queue_delay": 11.77
+    },
+    "workload": {
+      "cpu": 12.33,
+      "ram": 7.51,
+      "energy": 0.69
+    },
+    "cloud_workload": 5.41,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 60.39,
+      "ram": 33.95,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 50.15,
+      "latency": 22.89
+    },
+    "cloud": {
+      "queue_delay": 11.7
+    },
+    "workload": {
+      "cpu": 16.66,
+      "ram": 6.57,
+      "energy": 0.63
+    },
+    "cloud_workload": 5.62,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 59.8,
+      "ram": 31.38,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 48.18,
+      "latency": 22.75
+    },
+    "cloud": {
+      "queue_delay": 11.77
+    },
+    "workload": {
+      "cpu": 12.85,
+      "ram": 3.68,
+      "energy": 1.0
+    },
+    "cloud_workload": 3.22,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 67.34,
+      "ram": 32.19,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 47.62,
+      "latency": 23.35
+    },
+    "cloud": {
+      "queue_delay": 11.93
+    },
+    "workload": {
+      "cpu": 20.12,
+      "ram": 5.92,
+      "energy": 0.5
+    },
+    "cloud_workload": 4.13,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 65.42,
+      "ram": 31.63,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 47.88,
+      "latency": 23.27
+    },
+    "cloud": {
+      "queue_delay": 12.04
+    },
+    "workload": {
+      "cpu": 15.78,
+      "ram": 4.8,
+      "energy": 1.29
+    },
+    "cloud_workload": 3.4,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 68.0,
+      "ram": 30.06,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 45.54,
+      "latency": 23.12
+    },
+    "cloud": {
+      "queue_delay": 11.91
+    },
+    "workload": {
+      "cpu": 17.49,
+      "ram": 3.22,
+      "energy": 1.4
+    },
+    "cloud_workload": 5.6,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 64.86,
+      "ram": 31.51,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 45.38,
+      "latency": 23.26
+    },
+    "cloud": {
+      "queue_delay": 11.82
+    },
+    "workload": {
+      "cpu": 14.54,
+      "ram": 5.91,
+      "energy": 0.96
+    },
+    "cloud_workload": 5.28,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 72.81,
+      "ram": 33.64,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 44.56,
+      "latency": 23.98
+    },
+    "cloud": {
+      "queue_delay": 11.97
+    },
+    "workload": {
+      "cpu": 22.44,
+      "ram": 7.31,
+      "energy": 0.66
+    },
+    "cloud_workload": 3.48,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 66.38,
+      "ram": 34.71,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 47.51,
+      "latency": 24.05
+    },
+    "cloud": {
+      "queue_delay": 12.09
+    },
+    "workload": {
+      "cpu": 14.34,
+      "ram": 6.93,
+      "energy": 0.74
+    },
+    "cloud_workload": 3.68,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 71.76,
+      "ram": 32.32,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 50.4,
+      "latency": 23.06
+    },
+    "cloud": {
+      "queue_delay": 11.88
+    },
+    "workload": {
+      "cpu": 21.18,
+      "ram": 4.51,
+      "energy": 0.72
+    },
+    "cloud_workload": 3.75,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 73.41,
+      "ram": 33.5,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 52.31,
+      "latency": 22.27
+    },
+    "cloud": {
+      "queue_delay": 11.93
+    },
+    "workload": {
+      "cpu": 19.32,
+      "ram": 6.95,
+      "energy": 0.64
+    },
+    "cloud_workload": 4.77,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 62.99,
+      "ram": 33.93,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 51.51,
+      "latency": 21.84
+    },
+    "cloud": {
+      "queue_delay": 11.88
+    },
+    "workload": {
+      "cpu": 10.62,
+      "ram": 6.41,
+      "energy": 0.99
+    },
+    "cloud_workload": 5.01,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 60.46,
+      "ram": 33.24,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 51.64,
+      "latency": 22.26
+    },
+    "cloud": {
+      "queue_delay": 11.95
+    },
+    "workload": {
+      "cpu": 12.24,
+      "ram": 5.91,
+      "energy": 1.37
+    },
+    "cloud_workload": 3.61,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 57.41,
+      "ram": 34.94,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 51.47,
+      "latency": 21.88
+    },
+    "cloud": {
+      "queue_delay": 11.92
+    },
+    "workload": {
+      "cpu": 11.73,
+      "ram": 7.8,
+      "energy": 1.45
+    },
+    "cloud_workload": 4.83,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 54.83,
+      "ram": 31.39,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 52.63,
+      "latency": 21.23
+    },
+    "cloud": {
+      "queue_delay": 11.89
+    },
+    "workload": {
+      "cpu": 12.01,
+      "ram": 3.66,
+      "energy": 1.4
+    },
+    "cloud_workload": 5.64,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 59.87,
+      "ram": 34.13,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 53.76,
+      "latency": 20.34
+    },
+    "cloud": {
+      "queue_delay": 11.76
+    },
+    "workload": {
+      "cpu": 16.3,
+      "ram": 7.69,
+      "energy": 1.22
+    },
+    "cloud_workload": 3.89,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 72.87,
+      "ram": 34.02,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 55.42,
+      "latency": 20.33
+    },
+    "cloud": {
+      "queue_delay": 11.82
+    },
+    "workload": {
+      "cpu": 24.48,
+      "ram": 6.21,
+      "energy": 1.44
+    },
+    "cloud_workload": 3.38,
+    "scenario_id": 14,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 33.02,
+      "ram": 27.83,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 46.52,
+      "latency": 23.21
+    },
+    "cloud": {
+      "queue_delay": 25.37
+    },
+    "workload": {
+      "cpu": 10.64,
+      "ram": 5.95,
+      "energy": 0.52
+    },
+    "cloud_workload": 6.9,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 53.88,
+      "ram": 31.7,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 42.53,
+      "latency": 24.3
+    },
+    "cloud": {
+      "queue_delay": 26.35
+    },
+    "workload": {
+      "cpu": 19.54,
+      "ram": 7.42,
+      "energy": 0.52
+    },
+    "cloud_workload": 9.39,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 61.83,
+      "ram": 31.02,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 43.27,
+      "latency": 24.54
+    },
+    "cloud": {
+      "queue_delay": 27.95
+    },
+    "workload": {
+      "cpu": 19.07,
+      "ram": 4.89,
+      "energy": 1.48
+    },
+    "cloud_workload": 8.72,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 70.09,
+      "ram": 32.36,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 44.68,
+      "latency": 25.18
+    },
+    "cloud": {
+      "queue_delay": 29.84
+    },
+    "workload": {
+      "cpu": 22.2,
+      "ram": 6.08,
+      "energy": 1.07
+    },
+    "cloud_workload": 9.23,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 63.52,
+      "ram": 32.41,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 41.0,
+      "latency": 25.73
+    },
+    "cloud": {
+      "queue_delay": 32.12
+    },
+    "workload": {
+      "cpu": 12.32,
+      "ram": 5.93,
+      "energy": 0.93
+    },
+    "cloud_workload": 9.05,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 61.4,
+      "ram": 34.59,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 39.36,
+      "latency": 26.36
+    },
+    "cloud": {
+      "queue_delay": 35.05
+    },
+    "workload": {
+      "cpu": 13.3,
+      "ram": 7.91,
+      "energy": 1.36
+    },
+    "cloud_workload": 9.88,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 64.28,
+      "ram": 34.2,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 39.18,
+      "latency": 26.44
+    },
+    "cloud": {
+      "queue_delay": 38.05
+    },
+    "workload": {
+      "cpu": 16.69,
+      "ram": 6.19,
+      "energy": 0.95
+    },
+    "cloud_workload": 9.63,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 58.63,
+      "ram": 32.9,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 39.84,
+      "latency": 27.03
+    },
+    "cloud": {
+      "queue_delay": 41.05
+    },
+    "workload": {
+      "cpu": 10.68,
+      "ram": 5.33,
+      "energy": 1.07
+    },
+    "cloud_workload": 7.22,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 61.18,
+      "ram": 32.24,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 41.41,
+      "latency": 26.72
+    },
+    "cloud": {
+      "queue_delay": 44.54
+    },
+    "workload": {
+      "cpu": 15.24,
+      "ram": 4.84,
+      "energy": 1.09
+    },
+    "cloud_workload": 8.99,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 68.6,
+      "ram": 31.14,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 43.04,
+      "latency": 26.79
+    },
+    "cloud": {
+      "queue_delay": 47.7
+    },
+    "workload": {
+      "cpu": 20.27,
+      "ram": 4.39,
+      "energy": 0.66
+    },
+    "cloud_workload": 6.36,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 62.71,
+      "ram": 32.6,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 44.93,
+      "latency": 26.29
+    },
+    "cloud": {
+      "queue_delay": 51.21
+    },
+    "workload": {
+      "cpu": 12.2,
+      "ram": 6.48,
+      "energy": 1.22
+    },
+    "cloud_workload": 9.38,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 73.19,
+      "ram": 31.51,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 45.26,
+      "latency": 25.99
+    },
+    "cloud": {
+      "queue_delay": 54.52
+    },
+    "workload": {
+      "cpu": 22.68,
+      "ram": 4.24,
+      "energy": 1.37
+    },
+    "cloud_workload": 6.51,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 60.87,
+      "ram": 30.34,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 43.9,
+      "latency": 25.47
+    },
+    "cloud": {
+      "queue_delay": 57.87
+    },
+    "workload": {
+      "cpu": 10.36,
+      "ram": 3.79,
+      "energy": 1.21
+    },
+    "cloud_workload": 9.11,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 65.19,
+      "ram": 30.21,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 41.85,
+      "latency": 25.77
+    },
+    "cloud": {
+      "queue_delay": 61.29
+    },
+    "workload": {
+      "cpu": 17.99,
+      "ram": 4.89,
+      "energy": 0.67
+    },
+    "cloud_workload": 8.07,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 67.33,
+      "ram": 33.08,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 37.69,
+      "latency": 26.7
+    },
+    "cloud": {
+      "queue_delay": 64.62
+    },
+    "workload": {
+      "cpu": 16.18,
+      "ram": 7.02,
+      "energy": 0.64
+    },
+    "cloud_workload": 7.6,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 75.98,
+      "ram": 34.07,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 40.18,
+      "latency": 27.16
+    },
+    "cloud": {
+      "queue_delay": 67.61
+    },
+    "workload": {
+      "cpu": 23.29,
+      "ram": 6.78,
+      "energy": 1.38
+    },
+    "cloud_workload": 6.23,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 73.72,
+      "ram": 33.83,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 42.92,
+      "latency": 26.82
+    },
+    "cloud": {
+      "queue_delay": 70.78
+    },
+    "workload": {
+      "cpu": 18.62,
+      "ram": 6.22,
+      "energy": 0.76
+    },
+    "cloud_workload": 8.41,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 73.4,
+      "ram": 31.39,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 44.6,
+      "latency": 26.3
+    },
+    "cloud": {
+      "queue_delay": 74.39
+    },
+    "workload": {
+      "cpu": 18.31,
+      "ram": 3.92,
+      "energy": 1.24
+    },
+    "cloud_workload": 9.4,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 70.89,
+      "ram": 31.91,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 47.76,
+      "latency": 24.96
+    },
+    "cloud": {
+      "queue_delay": 77.78
+    },
+    "workload": {
+      "cpu": 16.25,
+      "ram": 5.83,
+      "energy": 1.46
+    },
+    "cloud_workload": 6.59,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 77.05,
+      "ram": 29.62,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 47.92,
+      "latency": 24.18
+    },
+    "cloud": {
+      "queue_delay": 81.25
+    },
+    "workload": {
+      "cpu": 22.72,
+      "ram": 3.05,
+      "energy": 0.77
+    },
+    "cloud_workload": 7.89,
+    "scenario_id": 15,
+    "device_type": "raspberry_pi",
+    "network_condition": "moderate",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 45.59,
+      "ram": 25.97,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 15.3,
+      "latency": 55.47
+    },
+    "cloud": {
+      "queue_delay": 4.99
+    },
+    "workload": {
+      "cpu": 18.71,
+      "ram": 4.03,
+      "energy": 1.14
+    },
+    "cloud_workload": 1.12,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 52.31,
+      "ram": 30.75,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 15.05,
+      "latency": 54.41
+    },
+    "cloud": {
+      "queue_delay": 5.13
+    },
+    "workload": {
+      "cpu": 14.32,
+      "ram": 7.38,
+      "energy": 1.47
+    },
+    "cloud_workload": 1.43,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 66.48,
+      "ram": 29.49,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 13.34,
+      "latency": 54.53
+    },
+    "cloud": {
+      "queue_delay": 5.16
+    },
+    "workload": {
+      "cpu": 23.08,
+      "ram": 3.52,
+      "energy": 0.99
+    },
+    "cloud_workload": 2.29,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 64.81,
+      "ram": 28.81,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 13.17,
+      "latency": 54.94
+    },
+    "cloud": {
+      "queue_delay": 5.04
+    },
+    "workload": {
+      "cpu": 15.52,
+      "ram": 3.51,
+      "energy": 1.17
+    },
+    "cloud_workload": 0.87,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 73.64,
+      "ram": 29.01,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.14,
+      "latency": 56.01
+    },
+    "cloud": {
+      "queue_delay": 5.16
+    },
+    "workload": {
+      "cpu": 23.02,
+      "ram": 4.55,
+      "energy": 1.11
+    },
+    "cloud_workload": 0.98,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 70.59,
+      "ram": 28.67,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 10.83,
+      "latency": 57.68
+    },
+    "cloud": {
+      "queue_delay": 5.13
+    },
+    "workload": {
+      "cpu": 16.72,
+      "ram": 3.65,
+      "energy": 1.22
+    },
+    "cloud_workload": 0.83,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 65.99,
+      "ram": 31.08,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 9.08,
+      "latency": 59.91
+    },
+    "cloud": {
+      "queue_delay": 5.0
+    },
+    "workload": {
+      "cpu": 13.76,
+      "ram": 6.59,
+      "energy": 0.98
+    },
+    "cloud_workload": 1.76,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 63.43,
+      "ram": 31.27,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 10.92,
+      "latency": 61.26
+    },
+    "cloud": {
+      "queue_delay": 4.99
+    },
+    "workload": {
+      "cpu": 14.99,
+      "ram": 5.0,
+      "energy": 0.79
+    },
+    "cloud_workload": 1.68,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 69.35,
+      "ram": 31.95,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 10.61,
+      "latency": 61.88
+    },
+    "cloud": {
+      "queue_delay": 5.09
+    },
+    "workload": {
+      "cpu": 19.15,
+      "ram": 5.27,
+      "energy": 1.12
+    },
+    "cloud_workload": 0.72,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 72.87,
+      "ram": 32.46,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 10.51,
+      "latency": 61.82
+    },
+    "cloud": {
+      "queue_delay": 5.08
+    },
+    "workload": {
+      "cpu": 20.42,
+      "ram": 5.43,
+      "energy": 1.2
+    },
+    "cloud_workload": 1.09,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 79.16,
+      "ram": 30.55,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 8.93,
+      "latency": 63.38
+    },
+    "cloud": {
+      "queue_delay": 5.17
+    },
+    "workload": {
+      "cpu": 23.23,
+      "ram": 3.64,
+      "energy": 1.02
+    },
+    "cloud_workload": 1.05,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 83.63,
+      "ram": 31.23,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 9.61,
+      "latency": 64.07
+    },
+    "cloud": {
+      "queue_delay": 5.25
+    },
+    "workload": {
+      "cpu": 24.31,
+      "ram": 5.45,
+      "energy": 1.05
+    },
+    "cloud_workload": 2.31,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 76.62,
+      "ram": 32.79,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 8.35,
+      "latency": 65.82
+    },
+    "cloud": {
+      "queue_delay": 5.16
+    },
+    "workload": {
+      "cpu": 17.27,
+      "ram": 6.52,
+      "energy": 1.1
+    },
+    "cloud_workload": 2.16,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 81.48,
+      "ram": 30.86,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 8.54,
+      "latency": 67.12
+    },
+    "cloud": {
+      "queue_delay": 5.09
+    },
+    "workload": {
+      "cpu": 24.71,
+      "ram": 3.65,
+      "energy": 0.7
+    },
+    "cloud_workload": 1.14,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 74.23,
+      "ram": 32.71,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 9.75,
+      "latency": 67.08
+    },
+    "cloud": {
+      "queue_delay": 5.06
+    },
+    "workload": {
+      "cpu": 16.19,
+      "ram": 6.72,
+      "energy": 1.26
+    },
+    "cloud_workload": 1.25,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 77.16,
+      "ram": 30.29,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 8.59,
+      "latency": 67.89
+    },
+    "cloud": {
+      "queue_delay": 5.03
+    },
+    "workload": {
+      "cpu": 21.37,
+      "ram": 3.22,
+      "energy": 1.07
+    },
+    "cloud_workload": 1.62,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 71.43,
+      "ram": 32.72,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 9.63,
+      "latency": 67.71
+    },
+    "cloud": {
+      "queue_delay": 4.98
+    },
+    "workload": {
+      "cpu": 16.28,
+      "ram": 7.25,
+      "energy": 1.0
+    },
+    "cloud_workload": 0.85,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 73.22,
+      "ram": 33.77,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 10.79,
+      "latency": 66.51
+    },
+    "cloud": {
+      "queue_delay": 5.07
+    },
+    "workload": {
+      "cpu": 19.21,
+      "ram": 6.6,
+      "energy": 0.9
+    },
+    "cloud_workload": 2.47,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 63.82,
+      "ram": 30.82,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 9.69,
+      "latency": 66.11
+    },
+    "cloud": {
+      "queue_delay": 5.11
+    },
+    "workload": {
+      "cpu": 11.24,
+      "ram": 3.61,
+      "energy": 1.3
+    },
+    "cloud_workload": 1.59,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 60.87,
+      "ram": 29.8,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 9.77,
+      "latency": 64.87
+    },
+    "cloud": {
+      "queue_delay": 5.19
+    },
+    "workload": {
+      "cpu": 11.83,
+      "ram": 3.83,
+      "energy": 1.14
+    },
+    "cloud_workload": 2.44,
+    "scenario_id": 16,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "idle"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 40.17,
+      "ram": 29.65,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 13.91,
+      "latency": 56.38
+    },
+    "cloud": {
+      "queue_delay": 12.03
+    },
+    "workload": {
+      "cpu": 13.36,
+      "ram": 7.66,
+      "energy": 1.45
+    },
+    "cloud_workload": 4.48,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 42.79,
+      "ram": 32.56,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 15.9,
+      "latency": 53.78
+    },
+    "cloud": {
+      "queue_delay": 11.94
+    },
+    "workload": {
+      "cpu": 10.16,
+      "ram": 7.14,
+      "energy": 0.88
+    },
+    "cloud_workload": 3.96,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 58.4,
+      "ram": 32.98,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 15.78,
+      "latency": 52.78
+    },
+    "cloud": {
+      "queue_delay": 11.88
+    },
+    "workload": {
+      "cpu": 21.42,
+      "ram": 6.64,
+      "energy": 0.84
+    },
+    "cloud_workload": 4.46,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 55.07,
+      "ram": 33.33,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 14.16,
+      "latency": 53.07
+    },
+    "cloud": {
+      "queue_delay": 11.95
+    },
+    "workload": {
+      "cpu": 11.52,
+      "ram": 6.2,
+      "energy": 1.35
+    },
+    "cloud_workload": 3.5,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 66.23,
+      "ram": 33.27,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.59,
+      "latency": 54.26
+    },
+    "cloud": {
+      "queue_delay": 11.9
+    },
+    "workload": {
+      "cpu": 21.22,
+      "ram": 5.82,
+      "energy": 1.47
+    },
+    "cloud_workload": 5.68,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 69.32,
+      "ram": 31.05,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 13.61,
+      "latency": 54.28
+    },
+    "cloud": {
+      "queue_delay": 11.86
+    },
+    "workload": {
+      "cpu": 19.72,
+      "ram": 3.53,
+      "energy": 0.84
+    },
+    "cloud_workload": 4.3,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 74.9,
+      "ram": 31.66,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 15.58,
+      "latency": 53.43
+    },
+    "cloud": {
+      "queue_delay": 11.81
+    },
+    "workload": {
+      "cpu": 21.68,
+      "ram": 5.26,
+      "energy": 1.04
+    },
+    "cloud_workload": 5.19,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 68.9,
+      "ram": 33.21,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 15.39,
+      "latency": 52.44
+    },
+    "cloud": {
+      "queue_delay": 12.12
+    },
+    "workload": {
+      "cpu": 14.59,
+      "ram": 6.45,
+      "energy": 1.39
+    },
+    "cloud_workload": 4.02,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 70.46,
+      "ram": 32.87,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 15.98,
+      "latency": 50.71
+    },
+    "cloud": {
+      "queue_delay": 12.05
+    },
+    "workload": {
+      "cpu": 19.02,
+      "ram": 6.03,
+      "energy": 1.01
+    },
+    "cloud_workload": 4.85,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 63.71,
+      "ram": 32.55,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 14.33,
+      "latency": 50.55
+    },
+    "cloud": {
+      "queue_delay": 12.0
+    },
+    "workload": {
+      "cpu": 12.19,
+      "ram": 5.76,
+      "energy": 0.74
+    },
+    "cloud_workload": 5.14,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 63.74,
+      "ram": 32.97,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 14.0,
+      "latency": 50.73
+    },
+    "cloud": {
+      "queue_delay": 12.09
+    },
+    "workload": {
+      "cpu": 16.56,
+      "ram": 6.13,
+      "energy": 1.03
+    },
+    "cloud_workload": 4.22,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 74.06,
+      "ram": 32.2,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.95,
+      "latency": 52.33
+    },
+    "cloud": {
+      "queue_delay": 12.1
+    },
+    "workload": {
+      "cpu": 23.62,
+      "ram": 4.8,
+      "energy": 0.9
+    },
+    "cloud_workload": 3.04,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 78.79,
+      "ram": 30.2,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 13.49,
+      "latency": 53.36
+    },
+    "cloud": {
+      "queue_delay": 12.04
+    },
+    "workload": {
+      "cpu": 22.15,
+      "ram": 3.38,
+      "energy": 1.06
+    },
+    "cloud_workload": 5.55,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 83.9,
+      "ram": 31.25,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 13.54,
+      "latency": 53.54
+    },
+    "cloud": {
+      "queue_delay": 12.05
+    },
+    "workload": {
+      "cpu": 23.92,
+      "ram": 5.66,
+      "energy": 0.86
+    },
+    "cloud_workload": 4.04,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 69.15,
+      "ram": 31.54,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 14.25,
+      "latency": 53.08
+    },
+    "cloud": {
+      "queue_delay": 12.03
+    },
+    "workload": {
+      "cpu": 10.99,
+      "ram": 5.41,
+      "energy": 1.23
+    },
+    "cloud_workload": 3.65,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 70.99,
+      "ram": 33.38,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 16.87,
+      "latency": 51.47
+    },
+    "cloud": {
+      "queue_delay": 12.0
+    },
+    "workload": {
+      "cpu": 19.11,
+      "ram": 7.19,
+      "energy": 1.32
+    },
+    "cloud_workload": 4.46,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 70.15,
+      "ram": 31.74,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 18.32,
+      "latency": 48.82
+    },
+    "cloud": {
+      "queue_delay": 11.97
+    },
+    "workload": {
+      "cpu": 15.49,
+      "ram": 4.15,
+      "energy": 1.46
+    },
+    "cloud_workload": 4.19,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 65.9,
+      "ram": 30.77,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 17.32,
+      "latency": 47.5
+    },
+    "cloud": {
+      "queue_delay": 12.0
+    },
+    "workload": {
+      "cpu": 13.84,
+      "ram": 4.66,
+      "energy": 0.5
+    },
+    "cloud_workload": 5.06,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 73.87,
+      "ram": 30.09,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 16.17,
+      "latency": 47.13
+    },
+    "cloud": {
+      "queue_delay": 12.09
+    },
+    "workload": {
+      "cpu": 22.39,
+      "ram": 4.11,
+      "energy": 0.75
+    },
+    "cloud_workload": 4.89,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 64.72,
+      "ram": 29.29,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 15.33,
+      "latency": 47.42
+    },
+    "cloud": {
+      "queue_delay": 12.05
+    },
+    "workload": {
+      "cpu": 12.22,
+      "ram": 3.52,
+      "energy": 0.57
+    },
+    "cloud_workload": 3.61,
+    "scenario_id": 17,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "moderate"
+  },
+  {
+    "step": 0,
+    "edge": {
+      "cpu": 40.54,
+      "ram": 27.57,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.37,
+      "latency": 57.72
+    },
+    "cloud": {
+      "queue_delay": 25.89
+    },
+    "workload": {
+      "cpu": 14.62,
+      "ram": 5.89,
+      "energy": 0.77
+    },
+    "cloud_workload": 9.71,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 1,
+    "edge": {
+      "cpu": 60.28,
+      "ram": 31.56,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 11.21,
+      "latency": 58.38
+    },
+    "cloud": {
+      "queue_delay": 27.03
+    },
+    "workload": {
+      "cpu": 21.89,
+      "ram": 7.3,
+      "energy": 1.17
+    },
+    "cloud_workload": 7.86,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 2,
+    "edge": {
+      "cpu": 59.75,
+      "ram": 33.19,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.8,
+      "latency": 57.58
+    },
+    "cloud": {
+      "queue_delay": 28.63
+    },
+    "workload": {
+      "cpu": 13.59,
+      "ram": 6.97,
+      "energy": 0.51
+    },
+    "cloud_workload": 7.42,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 3,
+    "edge": {
+      "cpu": 68.31,
+      "ram": 32.55,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.69,
+      "latency": 57.14
+    },
+    "cloud": {
+      "queue_delay": 30.93
+    },
+    "workload": {
+      "cpu": 20.12,
+      "ram": 5.56,
+      "energy": 1.06
+    },
+    "cloud_workload": 9.94,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 4,
+    "edge": {
+      "cpu": 60.6,
+      "ram": 31.36,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 13.09,
+      "latency": 57.05
+    },
+    "cloud": {
+      "queue_delay": 32.75
+    },
+    "workload": {
+      "cpu": 11.62,
+      "ram": 4.51,
+      "energy": 0.52
+    },
+    "cloud_workload": 6.49,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 5,
+    "edge": {
+      "cpu": 73.52,
+      "ram": 30.06,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 14.33,
+      "latency": 56.24
+    },
+    "cloud": {
+      "queue_delay": 34.93
+    },
+    "workload": {
+      "cpu": 24.12,
+      "ram": 3.64,
+      "energy": 1.4
+    },
+    "cloud_workload": 7.37,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 6,
+    "edge": {
+      "cpu": 78.29,
+      "ram": 29.7,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.87,
+      "latency": 56.05
+    },
+    "cloud": {
+      "queue_delay": 37.33
+    },
+    "workload": {
+      "cpu": 22.45,
+      "ram": 3.98,
+      "energy": 1.15
+    },
+    "cloud_workload": 6.64,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 7,
+    "edge": {
+      "cpu": 80.23,
+      "ram": 31.48,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 11.84,
+      "latency": 56.72
+    },
+    "cloud": {
+      "queue_delay": 39.87
+    },
+    "workload": {
+      "cpu": 22.38,
+      "ram": 6.23,
+      "energy": 0.53
+    },
+    "cloud_workload": 8.25,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 8,
+    "edge": {
+      "cpu": 67.0,
+      "ram": 31.04,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 11.98,
+      "latency": 57.26
+    },
+    "cloud": {
+      "queue_delay": 42.68
+    },
+    "workload": {
+      "cpu": 12.62,
+      "ram": 4.95,
+      "energy": 0.82
+    },
+    "cloud_workload": 9.74,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 9,
+    "edge": {
+      "cpu": 73.52,
+      "ram": 30.54,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 10.84,
+      "latency": 58.29
+    },
+    "cloud": {
+      "queue_delay": 46.05
+    },
+    "workload": {
+      "cpu": 22.59,
+      "ram": 3.84,
+      "energy": 1.22
+    },
+    "cloud_workload": 9.78,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 10,
+    "edge": {
+      "cpu": 69.51,
+      "ram": 32.05,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 14.05,
+      "latency": 56.37
+    },
+    "cloud": {
+      "queue_delay": 49.2
+    },
+    "workload": {
+      "cpu": 17.66,
+      "ram": 5.96,
+      "energy": 0.88
+    },
+    "cloud_workload": 7.16,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 11,
+    "edge": {
+      "cpu": 65.68,
+      "ram": 32.7,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 16.55,
+      "latency": 53.15
+    },
+    "cloud": {
+      "queue_delay": 52.17
+    },
+    "workload": {
+      "cpu": 13.37,
+      "ram": 5.78,
+      "energy": 1.05
+    },
+    "cloud_workload": 6.69,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 12,
+    "edge": {
+      "cpu": 57.05,
+      "ram": 34.49,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 14.67,
+      "latency": 52.45
+    },
+    "cloud": {
+      "queue_delay": 55.44
+    },
+    "workload": {
+      "cpu": 10.24,
+      "ram": 7.71,
+      "energy": 1.44
+    },
+    "cloud_workload": 8.3,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 13,
+    "edge": {
+      "cpu": 53.85,
+      "ram": 32.49,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 13.77,
+      "latency": 52.69
+    },
+    "cloud": {
+      "queue_delay": 58.48
+    },
+    "workload": {
+      "cpu": 11.02,
+      "ram": 4.87,
+      "energy": 0.92
+    },
+    "cloud_workload": 6.41,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 14,
+    "edge": {
+      "cpu": 65.2,
+      "ram": 33.01,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.58,
+      "latency": 53.67
+    },
+    "cloud": {
+      "queue_delay": 61.82
+    },
+    "workload": {
+      "cpu": 21.42,
+      "ram": 5.82,
+      "energy": 0.5
+    },
+    "cloud_workload": 9.62,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 15,
+    "edge": {
+      "cpu": 71.22,
+      "ram": 32.7,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.74,
+      "latency": 54.78
+    },
+    "cloud": {
+      "queue_delay": 65.04
+    },
+    "workload": {
+      "cpu": 20.85,
+      "ram": 5.38,
+      "energy": 0.84
+    },
+    "cloud_workload": 8.26,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 16,
+    "edge": {
+      "cpu": 65.64,
+      "ram": 33.02,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.95,
+      "latency": 55.49
+    },
+    "cloud": {
+      "queue_delay": 68.31
+    },
+    "workload": {
+      "cpu": 13.47,
+      "ram": 5.76,
+      "energy": 1.15
+    },
+    "cloud_workload": 7.37,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 17,
+    "edge": {
+      "cpu": 60.27,
+      "ram": 34.46,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 12.83,
+      "latency": 56.54
+    },
+    "cloud": {
+      "queue_delay": 71.55
+    },
+    "workload": {
+      "cpu": 10.87,
+      "ram": 7.23,
+      "energy": 0.99
+    },
+    "cloud_workload": 7.9,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 18,
+    "edge": {
+      "cpu": 68.95,
+      "ram": 33.67,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 9.13,
+      "latency": 59.15
+    },
+    "cloud": {
+      "queue_delay": 75.14
+    },
+    "workload": {
+      "cpu": 20.86,
+      "ram": 5.62,
+      "energy": 0.62
+    },
+    "cloud_workload": 9.29,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  },
+  {
+    "step": 19,
+    "edge": {
+      "cpu": 61.03,
+      "ram": 34.81,
+      "battery": 100.0
+    },
+    "network": {
+      "bandwidth": 9.48,
+      "latency": 60.92
+    },
+    "cloud": {
+      "queue_delay": 78.84
+    },
+    "workload": {
+      "cpu": 11.54,
+      "ram": 7.19,
+      "energy": 1.06
+    },
+    "cloud_workload": 8.57,
+    "scenario_id": 18,
+    "device_type": "raspberry_pi",
+    "network_condition": "poor",
+    "cloud_condition": "busy"
+  }
+]
